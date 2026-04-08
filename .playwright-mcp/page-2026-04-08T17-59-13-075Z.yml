@@ -1,0 +1,662 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e4]:
+    - navigation [ref=e7]:
+      - link "Zenodo home" [ref=e9] [cursor=pointer]:
+        - /url: /
+        - img "Zenodo home" [ref=e10]
+      - button "Menu" [ref=e12] [cursor=pointer]
+      - text:   
+  - main [ref=e14]:
+    - generic [ref=e16]:
+      - region "Information banner"
+      - generic [ref=e17]:
+        - generic [ref=e19]:
+          - article [ref=e20]:
+            - region "Publication date and version number" [ref=e21]:
+              - generic [ref=e23]:
+                - generic [ref=e24]: Published January 16, 2026 | Version V.034 Technical_Structure_Depth
+                - generic [ref=e25]:
+                  - note "Resource type" [ref=e26]: Preprint
+                  - note "Access status" [ref=e27]:
+                    - generic [ref=e28]: 
+                    - text: Open
+            - region "Record title, authors and contributors" [ref=e30]:
+              - heading "A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application" [level=1] [ref=e31]
+              - region "Authors and contributors" [ref=e32]:
+                - generic [ref=e35]:
+                  - heading "Authors/Creators" [level=3] [ref=e36]
+                  - list [ref=e37]:
+                    - listitem [ref=e38]:
+                      - link "McHenry, Deric J. (Researcher)" [ref=e39] [cursor=pointer]:
+                        - /url: /search?q=metadata.creators.person_or_org.name:%22McHenry,+Deric+J.%22
+                      - link "McHenry, Deric J.'s ORCID profile" [ref=e40] [cursor=pointer]:
+                        - /url: https://orcid.org/0009-0002-9904-5390
+                        - img "ORCID icon" [ref=e41]
+            - region "Record description" [ref=e42]:
+              - heading "Description" [level=2] [ref=e43]
+              - generic [ref=e44]:
+                - paragraph [ref=e45]: == V.04 DESCRIPTION (Structural Revision) ==
+                - paragraph [ref=e46]: "This paper presents a conservation law for commitment in language: the claim that the identity-preserving core of a signal—its commitment content—remains invariant under lossy compression and recursive application, provided enforcement constraints are met. We formalize commitment as a measurable semantic invariant distinct from Shannon information, define conservation conditions over transformation and recursion, and provide a falsifiability framework with concrete failure criteria."
+                - paragraph [ref=e47]: The work situates itself against semantic information theory (Bar-Hillel & Carnap, Floridi, Tishby), transformation fidelity and drift (Bianchi et al., Xu et al., Yeh et al.), and conservation principles in computation (Atkey, Kunin et al.). We demonstrate that existing probabilistic and agent-based architectures violate commitment conservation under recursion, leading to drift and identity loss. A minimal enforcement architecture (MO§ES™) is introduced as proof-of-concept for preserving commitment invariance without model-specific assumptions.
+                - paragraph [ref=e48]: Preliminary empirical results from compression-based stress tests on a limited corpus show patterns consistent with the conservation predictions. The framework is model-agnostic, extends beyond text to structured signals such as code and speech, and is designed for adversarial replication.
+                - paragraph [ref=e49]: "This is a structural revision incorporating peer-review preparation: reordered sections (falsification at §4), expanded related work (10 new references), scoped claims (Theorem → Proposition), and 13 technical strengthening items applied throughout."
+                - paragraph [ref=e50]:
+                  - emphasis [ref=e51]: Timestamped public disclosure. arXiv endorsement pending.
+            - region "Files" [ref=e52]:
+              - heading "Files" [level=2] [ref=e53]
+              - generic [ref=e54]:
+                - heading "File preview" [level=3] [ref=e55] [cursor=pointer]:
+                  - button "File preview" [expanded] [ref=e56]:
+                    - text: V.04Tech_Struct_Depth.pd.pdf
+                    - generic [ref=e57]: 
+                - region "File preview" [ref=e58]:
+                  - iframe [ref=e60]:
+                    - generic [ref=f1e6]:
+                      - generic [ref=f1e7]:
+                        - button "Previous" [ref=f1e9]:
+                          - generic: Previous
+                        - spinbutton "Page" [ref=f1e13]: "1"
+                        - button "Next" [ref=f1e17]:
+                          - generic: Next
+                      - generic [ref=f1e18]:
+                        - button "Zoom Out" [ref=f1e20]:
+                          - generic: Zoom Out
+                        - combobox "Zoom" [ref=f1e23]:
+                          - option "Automatic Zoom" [selected]
+                          - option "Actual Size"
+                          - option "Page Fit"
+                          - option "Page Width"
+                          - option "50%"
+                          - option "75%"
+                          - option "100%"
+                          - option "125%"
+                          - option "150%"
+                          - option "200%"
+                          - option "300%"
+                          - option "400%"
+                        - button "Zoom In" [ref=f1e26]:
+                          - generic: Zoom In
+                      - button "Toggle Fullscreen Mode" [ref=f1e29]:
+                        - generic: Toggle Fullscreen Mode
+              - generic [ref=e61]:
+                - heading "Files (2.5 MB)" [level=3] [ref=e62] [cursor=pointer]:
+                  - button "Files (2.5 MB)" [expanded] [ref=e63]:
+                    - text: Files (2.5 MB)
+                    - generic [ref=e64]: 
+                - region "Files (2.5 MB)" [ref=e65]:
+                  - table [ref=e67]:
+                    - text: 
+                    - rowgroup [ref=e68]:
+                      - row "Comm_Sys.jpg md5:1bfa03a70231815cde3008df30905fd8  168.6 kB Preview Download" [ref=e69]:
+                        - cell "Comm_Sys.jpg md5:1bfa03a70231815cde3008df30905fd8 " [ref=e70]:
+                          - link "Comm_Sys.jpg" [ref=e72] [cursor=pointer]:
+                            - /url: /records/18792459/files/Comm_Sys.jpg?download=1
+                          - generic [ref=e73]:
+                            - text: md5:1bfa03a70231815cde3008df30905fd8
+                            - generic [ref=e75]: 
+                        - cell "168.6 kB" [ref=e76]
+                        - cell "Preview Download" [ref=e77]:
+                          - generic [ref=e78]:
+                            - button "Preview" [ref=e79] [cursor=pointer]:
+                              - generic [ref=e80]: 
+                              - text: Preview
+                            - button "Download" [ref=e81] [cursor=pointer]:
+                              - generic [ref=e82]: 
+                              - text: Download
+                      - row "fig2_commitment_stability.tex md5:cfaa237ed4979088f649388719af7225  1.3 kB Download" [ref=e83]:
+                        - cell "fig2_commitment_stability.tex md5:cfaa237ed4979088f649388719af7225 " [ref=e84]:
+                          - link "fig2_commitment_stability.tex" [ref=e86] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig2_commitment_stability.tex?download=1
+                          - generic [ref=e87]:
+                            - text: md5:cfaa237ed4979088f649388719af7225
+                            - generic [ref=e89]: 
+                        - cell "1.3 kB" [ref=e90]
+                        - cell "Download" [ref=e91]:
+                          - button "Download" [ref=e93] [cursor=pointer]:
+                            - generic [ref=e94]: 
+                            - text: Download
+                      - row "fig3.tex md5:ff2c3be480511dccb46a1112bfba006d  882 Bytes Download" [ref=e95]:
+                        - cell "fig3.tex md5:ff2c3be480511dccb46a1112bfba006d " [ref=e96]:
+                          - link "fig3.tex" [ref=e98] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig3.tex?download=1
+                          - generic [ref=e99]:
+                            - text: md5:ff2c3be480511dccb46a1112bfba006d
+                            - generic [ref=e101]: 
+                        - cell "882 Bytes" [ref=e102]
+                        - cell "Download" [ref=e103]:
+                          - button "Download" [ref=e105] [cursor=pointer]:
+                            - generic [ref=e106]: 
+                            - text: Download
+                      - row "fig4.jpg md5:1f8dd3c600f56688a3bb7ae22f0a06fb  98.3 kB Preview Download" [ref=e107]:
+                        - cell "fig4.jpg md5:1f8dd3c600f56688a3bb7ae22f0a06fb " [ref=e108]:
+                          - link "fig4.jpg" [ref=e110] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig4.jpg?download=1
+                          - generic [ref=e111]:
+                            - text: md5:1f8dd3c600f56688a3bb7ae22f0a06fb
+                            - generic [ref=e113]: 
+                        - cell "98.3 kB" [ref=e114]
+                        - cell "Preview Download" [ref=e115]:
+                          - generic [ref=e116]:
+                            - button "Preview" [ref=e117] [cursor=pointer]:
+                              - generic [ref=e118]: 
+                              - text: Preview
+                            - button "Download" [ref=e119] [cursor=pointer]:
+                              - generic [ref=e120]: 
+                              - text: Download
+                      - row "fig5_stress_regimes.tex md5:1d9a1c81d97c2c60bd8981f5a5ba15f1  1.3 kB Download" [ref=e121]:
+                        - cell "fig5_stress_regimes.tex md5:1d9a1c81d97c2c60bd8981f5a5ba15f1 " [ref=e122]:
+                          - link "fig5_stress_regimes.tex" [ref=e124] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig5_stress_regimes.tex?download=1
+                          - generic [ref=e125]:
+                            - text: md5:1d9a1c81d97c2c60bd8981f5a5ba15f1
+                            - generic [ref=e127]: 
+                        - cell "1.3 kB" [ref=e128]
+                        - cell "Download" [ref=e129]:
+                          - button "Download" [ref=e131] [cursor=pointer]:
+                            - generic [ref=e132]: 
+                            - text: Download
+                      - row "fig6_lattice.tex md5:3611a10bf8ce94a9d85000a53c519567  1.6 kB Download" [ref=e133]:
+                        - cell "fig6_lattice.tex md5:3611a10bf8ce94a9d85000a53c519567 " [ref=e134]:
+                          - link "fig6_lattice.tex" [ref=e136] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig6_lattice.tex?download=1
+                          - generic [ref=e137]:
+                            - text: md5:3611a10bf8ce94a9d85000a53c519567
+                            - generic [ref=e139]: 
+                        - cell "1.6 kB" [ref=e140]
+                        - cell "Download" [ref=e141]:
+                          - button "Download" [ref=e143] [cursor=pointer]:
+                            - generic [ref=e144]: 
+                            - text: Download
+                      - row "fig7_token_trajectory.tex md5:046ae4e1eb0bd04ef71dc4f87d04f8cc  1.6 kB Download" [ref=e145]:
+                        - cell "fig7_token_trajectory.tex md5:046ae4e1eb0bd04ef71dc4f87d04f8cc " [ref=e146]:
+                          - link "fig7_token_trajectory.tex" [ref=e148] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig7_token_trajectory.tex?download=1
+                          - generic [ref=e149]:
+                            - text: md5:046ae4e1eb0bd04ef71dc4f87d04f8cc
+                            - generic [ref=e151]: 
+                        - cell "1.6 kB" [ref=e152]
+                        - cell "Download" [ref=e153]:
+                          - button "Download" [ref=e155] [cursor=pointer]:
+                            - generic [ref=e156]: 
+                            - text: Download
+                      - row "fig8_total_comparison.tex md5:0d00efa077871f255a3fc7470725ed61  1.2 kB Download" [ref=e157]:
+                        - cell "fig8_total_comparison.tex md5:0d00efa077871f255a3fc7470725ed61 " [ref=e158]:
+                          - link "fig8_total_comparison.tex" [ref=e160] [cursor=pointer]:
+                            - /url: /records/18792459/files/fig8_total_comparison.tex?download=1
+                          - generic [ref=e161]:
+                            - text: md5:0d00efa077871f255a3fc7470725ed61
+                            - generic [ref=e163]: 
+                        - cell "1.2 kB" [ref=e164]
+                        - cell "Download" [ref=e165]:
+                          - button "Download" [ref=e167] [cursor=pointer]:
+                            - generic [ref=e168]: 
+                            - text: Download
+                      - row "main.md md5:4bcfec42c1a49ccc4595d8bd240647a3  67.7 kB Preview Download" [ref=e169]:
+                        - cell "main.md md5:4bcfec42c1a49ccc4595d8bd240647a3 " [ref=e170]:
+                          - link "main.md" [ref=e172] [cursor=pointer]:
+                            - /url: /records/18792459/files/main.md?download=1
+                          - generic [ref=e173]:
+                            - text: md5:4bcfec42c1a49ccc4595d8bd240647a3
+                            - generic [ref=e175]: 
+                        - cell "67.7 kB" [ref=e176]
+                        - cell "Preview Download" [ref=e177]:
+                          - generic [ref=e178]:
+                            - button "Preview" [ref=e179] [cursor=pointer]:
+                              - generic [ref=e180]: 
+                              - text: Preview
+                            - button "Download" [ref=e181] [cursor=pointer]:
+                              - generic [ref=e182]: 
+                              - text: Download
+                      - row "main.tex md5:f0ff73bd7a6e9c04dd5e3c7b154daca0  79.9 kB Download" [ref=e183]:
+                        - cell "main.tex md5:f0ff73bd7a6e9c04dd5e3c7b154daca0 " [ref=e184]:
+                          - link "main.tex" [ref=e186] [cursor=pointer]:
+                            - /url: /records/18792459/files/main.tex?download=1
+                          - generic [ref=e187]:
+                            - text: md5:f0ff73bd7a6e9c04dd5e3c7b154daca0
+                            - generic [ref=e189]: 
+                        - cell "79.9 kB" [ref=e190]
+                        - cell "Download" [ref=e191]:
+                          - button "Download" [ref=e193] [cursor=pointer]:
+                            - generic [ref=e194]: 
+                            - text: Download
+                      - row "README.txt md5:e7e13ceb8c99c5d58dbc0fcf4b3ef4c1  1.5 kB Preview Download" [ref=e195]:
+                        - cell "README.txt md5:e7e13ceb8c99c5d58dbc0fcf4b3ef4c1 " [ref=e196]:
+                          - link "README.txt" [ref=e198] [cursor=pointer]:
+                            - /url: /records/18792459/files/README.txt?download=1
+                          - generic [ref=e199]:
+                            - text: md5:e7e13ceb8c99c5d58dbc0fcf4b3ef4c1
+                            - generic [ref=e201]: 
+                        - cell "1.5 kB" [ref=e202]
+                        - cell "Preview Download" [ref=e203]:
+                          - generic [ref=e204]:
+                            - button "Preview" [ref=e205] [cursor=pointer]:
+                              - generic [ref=e206]: 
+                              - text: Preview
+                            - button "Download" [ref=e207] [cursor=pointer]:
+                              - generic [ref=e208]: 
+                              - text: Download
+                      - row "v.04_CCL3_2026.pdf md5:a49637e0b0a8d50c51b0d82dbf09b0bf  702.7 kB Preview Download" [ref=e209]:
+                        - cell "v.04_CCL3_2026.pdf md5:a49637e0b0a8d50c51b0d82dbf09b0bf " [ref=e210]:
+                          - link "v.04_CCL3_2026.pdf" [ref=e212] [cursor=pointer]:
+                            - /url: /records/18792459/files/v.04_CCL3_2026.pdf?download=1
+                          - generic [ref=e213]:
+                            - text: md5:a49637e0b0a8d50c51b0d82dbf09b0bf
+                            - generic [ref=e215]: 
+                        - cell "702.7 kB" [ref=e216]
+                        - cell "Preview Download" [ref=e217]:
+                          - generic [ref=e218]:
+                            - button "Preview" [ref=e219] [cursor=pointer]:
+                              - generic [ref=e220]: 
+                              - text: Preview
+                            - button "Download" [ref=e221] [cursor=pointer]:
+                              - generic [ref=e222]: 
+                              - text: Download
+                      - row "V.04Tech_Struct_Depth.pd.pdf md5:a49637e0b0a8d50c51b0d82dbf09b0bf  702.7 kB Preview Download" [ref=e223]:
+                        - cell "V.04Tech_Struct_Depth.pd.pdf md5:a49637e0b0a8d50c51b0d82dbf09b0bf " [ref=e224]:
+                          - link "V.04Tech_Struct_Depth.pd.pdf" [ref=e226] [cursor=pointer]:
+                            - /url: /records/18792459/files/V.04Tech_Struct_Depth.pd.pdf?download=1
+                          - generic [ref=e227]:
+                            - text: md5:a49637e0b0a8d50c51b0d82dbf09b0bf
+                            - generic [ref=e229]: 
+                        - cell "702.7 kB" [ref=e230]
+                        - cell "Preview Download" [ref=e231]:
+                          - generic [ref=e232]:
+                            - button "Preview" [ref=e233] [cursor=pointer]:
+                              - generic [ref=e234]: 
+                              - text: Preview
+                            - button "Download" [ref=e235] [cursor=pointer]:
+                              - generic [ref=e236]: 
+                              - text: Download
+                      - row "V.04Tech_Struct_Depth.pdf md5:151e6e142401ca3a4412013530b0b2c2  658.4 kB Preview Download" [ref=e237]:
+                        - cell "V.04Tech_Struct_Depth.pdf md5:151e6e142401ca3a4412013530b0b2c2 " [ref=e238]:
+                          - link "V.04Tech_Struct_Depth.pdf" [ref=e240] [cursor=pointer]:
+                            - /url: /records/18792459/files/V.04Tech_Struct_Depth.pdf?download=1
+                          - generic [ref=e241]:
+                            - text: md5:151e6e142401ca3a4412013530b0b2c2
+                            - generic [ref=e243]: 
+                        - cell "658.4 kB" [ref=e244]
+                        - cell "Preview Download" [ref=e245]:
+                          - generic [ref=e246]:
+                            - button "Preview" [ref=e247] [cursor=pointer]:
+                              - generic [ref=e248]: 
+                              - text: Preview
+                            - button "Download" [ref=e249] [cursor=pointer]:
+                              - generic [ref=e250]: 
+                              - text: Download
+            - region "Additional record details" [ref=e251]:
+              - heading "Additional details" [level=2] [ref=e252]
+              - generic [ref=e254]:
+                - heading "Dates" [level=3] [ref=e256]
+                - generic [ref=e258]:
+                  - term [ref=e259]: Updated
+                  - definition [ref=e260]:
+                    - generic [ref=e261]: 2026-02-26
+                    - generic [ref=e262]: Technical_Structure_Depth
+              - generic [ref=e264]:
+                - heading "Software" [level=3] [ref=e266] [cursor=pointer]:
+                  - button "Software" [expanded] [ref=e267]:
+                    - generic [ref=e268]: 
+                    - text: Software
+                - region "Software" [ref=e269]:
+                  - generic [ref=e270]:
+                    - term [ref=e271]:
+                      - text: Repository URL
+                      - link "https://codemeta.github.io/terms/#codeRepository" [ref=e272] [cursor=pointer]:
+                        - /url: https://codemeta.github.io/terms/#codeRepository
+                        - generic [ref=e273]: 
+                    - definition [ref=e274]:
+                      - link "https://github.com/SunrisesIllNeverSee/commitment-conservation" [ref=e275] [cursor=pointer]:
+                        - /url: https://github.com/SunrisesIllNeverSee/commitment-conservation
+                    - term [ref=e276]:
+                      - text: Development Status
+                      - link "https://codemeta.github.io/terms/#developmentStatus" [ref=e277] [cursor=pointer]:
+                        - /url: https://codemeta.github.io/terms/#developmentStatus
+                        - generic [ref=e278]: 
+                    - definition [ref=e279]:
+                      - link "Active" [ref=e280] [cursor=pointer]:
+                        - /url: /search?q=custom_fields.code%5C:developmentStatus:%22Active%22
+              - generic [ref=e282]:
+                - heading "References" [level=3] [ref=e284] [cursor=pointer]:
+                  - button "References" [expanded] [ref=e285]:
+                    - generic [ref=e286]: 
+                    - text: References
+                - region "References" [ref=e287]:
+                  - list [ref=e288]:
+                    - listitem [ref=e289]: • Shannon, C. E. (1948). A mathematical theory of communication. Bell System Technical Journal, 27(3), 379-423
+                    - listitem [ref=e290]: • Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, s2-42(1), 230-265.
+                    - listitem [ref=e291]: "• Schmidhuber, J. (2008). Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes."
+                    - listitem [ref=e292]: • Goertzel, B., et al. (2014). A cognitive architecture based on cognitive synergy.
+                    - listitem [ref=e293]: • Looks, M. (2006). Meta-optimizing semantic evolutionary search.
+                    - listitem [ref=e294]: "• Looks, M. (2009). Scalable meta-optimization: A case study with the distributed hierarchical genetic algorithm."
+                    - listitem [ref=e295]: • Corrêa, C., Schmid, P., Goyal, K., Kim, J., et al. (2025). Iterative Deployment Improves Planning Skills in LLMs. arXiv preprint arXiv:2512.24940.
+                    - listitem [ref=e296]: "• Xie, Z., Ma, Y., Zhou, Y., et al. (2025). mHC: Manifold-Constrained Hyper-Connections for Stable Scaling. arXiv preprint arXiv:2512.24880."
+                    - listitem [ref=e297]: "• Chang, E. (2025). The Missing Layer of AGI: From Pattern Alchemy to Coordination Physics. arXiv preprint arXiv:2512.05765."
+                    - listitem [ref=e298]: • Zhang, H., Liu, A., et al. (2025). Recursive Language Models. arXiv preprint arXiv:2512.24601.
+                    - listitem [ref=e299]: "• Guo, D., Yang, D., Zhang, H., et al. (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. arXiv preprint arXiv:2501.12948."
+                    - listitem [ref=e300]: "• Chen, Z., Wang, H., Li, T., et al. (2026). SimpleMem: A Simple Memory Mechanism with Structured Compression for Long-Context Language Agents. arXiv preprint arXiv:2601.02553."
+                    - listitem [ref=e301]: "• Park, J. S., O'Brien, J. C., Cai, C. J., et al. (2023). Generative Agents: Interactive Simulacra of Human Behavior. Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, 1–22."
+                    - listitem [ref=e302]: "• Bai, Y., Kadavath, S., Kundu, S., et al. (2022). Constitutional AI: Harmlessness from AI Feedback. arXiv preprint arXiv:2212.08073."
+                    - listitem [ref=e303]: "• Centelles, A. and Mendelsohn, T. (2026). ABBA: Lattice-based Commitments from Commutators. IACR ePrint 2026/148."
+                    - listitem [ref=e304]: "• Yeh, S., Li, S., and Mallick, T. (2026). LUMINA: Detecting Hallucinations in RAG Systems with Context-Knowledge Signals. Proceedings of ICLR 2026."
+                    - listitem [ref=e305]: • Xu, Y., Zhang, X., Yeh, S., et al. (2026). Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions. Proceedings of ICLR 2026.
+                    - listitem [ref=e306]: "• Gaurav, S., Heikkonen, J., and Chaudhary, J. (2025). Governance-as-a-Service: A Multi-Agent Framework for AI System Compliance and Policy Enforcement. arXiv preprint arXiv:2508.18765."
+                    - listitem [ref=e307]: "• Kunin, D., et al. (2021). Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics. arXiv preprint arXiv:2012.04728."
+                    - listitem [ref=e308]: • Atkey, R. (2014). From Parametricity to Conservation Laws, via Noether's Theorem. ACM SIGPLAN Notices, 49(1), 491–502.
+                    - listitem [ref=e309]: • Bianchi, F., et al. (2022). Language Invariant Properties in Natural Language Processing. arXiv preprint arXiv:2203.07628.
+                    - listitem [ref=e310]: • Tishby, N., Pereira, F. C., and Bialek, W. (2000). The Information Bottleneck Method. Proceedings of the 37th Annual Allerton Conference, 368–377.
+                    - listitem [ref=e311]: • Floridi, L. (2004). Outline of a Theory of Strongly Semantic Information. Minds and Machines, 14(2), 197–221.
+                    - listitem [ref=e312]: • Bar-Hillel, Y. and Carnap, R. (1953). Semantic Information. British Journal for the Philosophy of Science, 4(14), 147–157.
+            - region "Record citations" [ref=e314]:
+              - generic [ref=e315]:
+                - generic [ref=e316] [cursor=pointer]:
+                  - text: Citations
+                  - link "Citations help page" [ref=e317]:
+                    - /url: https://support.zenodo.org/help/en-gb/25-citations
+                    - generic [ref=e318]: 
+                  - generic [ref=e319]: 
+                - generic [ref=e322]:
+                  - generic [ref=e324]:
+                    - generic [ref=e326]: "Show only:"
+                    - list [ref=e328]:
+                      - listitem [ref=e329]:
+                        - generic [ref=e330]:
+                          - checkbox "literature (0)" [disabled] [ref=e331] [cursor=pointer]
+                          - generic [ref=e332]: literature (0)
+                      - listitem [ref=e333]:
+                        - generic [ref=e334]:
+                          - checkbox "dataset (0)" [disabled] [ref=e335] [cursor=pointer]
+                          - generic [ref=e336]: dataset (0)
+                      - listitem [ref=e337]:
+                        - generic [ref=e338]:
+                          - checkbox "software (0)" [disabled] [ref=e339] [cursor=pointer]
+                          - generic [ref=e340]: software (0)
+                      - listitem [ref=e341]:
+                        - generic [ref=e342]:
+                          - checkbox "unknown (0)" [disabled] [ref=e343] [cursor=pointer]
+                          - generic [ref=e344]: unknown (0)
+                      - listitem [ref=e345]:
+                        - generic [ref=e346]:
+                          - checkbox "Citations to this version" [ref=e347] [cursor=pointer]
+                          - generic [ref=e348] [cursor=pointer]: Citations to this version
+                  - generic [ref=e350]:
+                    - textbox "Search citations" [ref=e351]:
+                      - /placeholder: Search for citation ...
+                    - button "Search" [ref=e352] [cursor=pointer]
+          - complementary "Record details" [ref=e359]:
+            - region "Metrics" [ref=e360]:
+              - generic [ref=e361]:
+                - generic [ref=e362]:
+                  - generic [ref=e363]: "548"
+                  - generic [ref=e364]:
+                    - generic [ref=e365]: 
+                    - text: Views
+                - generic [ref=e366]:
+                  - generic [ref=e367]: "317"
+                  - generic [ref=e368]:
+                    - generic [ref=e369]: 
+                    - text: Downloads
+              - generic [ref=e370]:
+                - generic [ref=e371] [cursor=pointer]:
+                  - generic [ref=e372]: 
+                  - text: Show more details
+                - text:  All versions This version  All versions This version  All versions This version
+            - generic [ref=e373]:
+              - heading "Versions" [level=2] [ref=e374]
+              - list [ref=e378]:
+                - listitem [ref=e379]:
+                  - generic [ref=e380]:
+                    - text: Version V.034 Technical_Structure_Depth
+                    - link "10.5281/zenodo.18792459" [ref=e381] [cursor=pointer]:
+                      - /url: https://doi.org/10.5281/zenodo.18792459
+                  - generic [ref=e382]: Jan 16, 2026
+                - listitem [ref=e383]:
+                  - generic [ref=e384]:
+                    - link "Version V.03 Falsifiability_Testing" [ref=e385] [cursor=pointer]:
+                      - /url: /records/18274930
+                    - link "10.5281/zenodo.18274930" [ref=e386] [cursor=pointer]:
+                      - /url: https://doi.org/10.5281/zenodo.18274930
+                  - generic [ref=e387]: Jan 16, 2026
+                - listitem [ref=e388]:
+                  - generic [ref=e389]:
+                    - link "Version v0.2 (Preprint)" [ref=e390] [cursor=pointer]:
+                      - /url: /records/18271102
+                    - link "10.5281/zenodo.18271102" [ref=e391] [cursor=pointer]:
+                      - /url: https://doi.org/10.5281/zenodo.18271102
+                  - generic [ref=e392]: Jan 16, 2026
+                - listitem [ref=e393]:
+                  - generic [ref=e394]:
+                    - link "Version V.1-preprint (Law Disclosure)" [ref=e395] [cursor=pointer]:
+                      - /url: /records/18267279
+                    - link "10.5281/zenodo.18267279" [ref=e396] [cursor=pointer]:
+                      - /url: https://doi.org/10.5281/zenodo.18267279
+                  - generic [ref=e397]: Jan 12, 2026
+                - link "View all 4 versions" [ref=e400] [cursor=pointer]:
+                  - /url: /search?q=parent.id:18267278&sort=version&f=allversions:true
+                - listitem [ref=e401]:
+                  - paragraph [ref=e403]:
+                    - strong [ref=e404]: Cite all versions?
+                    - text: You can cite all versions by using the DOI
+                    - link "10.5281/zenodo.18267278" [ref=e405] [cursor=pointer]:
+                      - /url: https://doi.org/10.5281/zenodo.18267278
+                    - text: . This DOI represents all versions, and will always resolve to the latest one.
+                    - link "Read more" [ref=e406] [cursor=pointer]:
+                      - /url: /help/versioning
+                    - text: .
+            - generic [ref=e407]:
+              - heading "External resources" [level=2] [ref=e408]
+              - generic "External resources" [ref=e409]:
+                - term [ref=e410]: Indexed in
+                - list [ref=e411]:
+                  - listitem [ref=e412]:
+                    - link "OpenAIRE" [ref=e414] [cursor=pointer]:
+                      - /url: https://explore.openaire.eu/search/result?pid=10.5281/zenodo.18792459
+            - generic [ref=e416]:
+              - heading "Keywords and subjects" [level=2] [ref=e417]
+              - generic "Keywords and subjects" [ref=e418]:
+                - list [ref=e419]:
+                  - listitem [ref=e420]:
+                    - link "artificial intelligence" [ref=e421] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22artificial+intelligence%22
+                  - listitem [ref=e422]:
+                    - link "computer science" [ref=e423] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22computer+science%22
+                  - listitem [ref=e424]:
+                    - link "Computation and Language" [ref=e425] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Computation+and+Language%22
+                  - listitem [ref=e426]:
+                    - link "conservation law" [ref=e427] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22conservation+law%22
+                  - listitem [ref=e428]:
+                    - link "LLM" [ref=e429] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22LLM%22
+                  - listitem [ref=e430]:
+                    - link "Language Models" [ref=e431] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Language+Models%22
+                  - listitem [ref=e432]:
+                    - link "Semantic preservation" [ref=e433] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Semantic+preservation%22
+                  - listitem [ref=e434]:
+                    - link "Compression" [ref=e435] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Compression%22
+                  - listitem [ref=e436]:
+                    - link "Recursion" [ref=e437] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Recursion%22
+                  - listitem [ref=e438]:
+                    - link "Commitment" [ref=e439] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Commitment%22
+                  - listitem [ref=e440]:
+                    - link "Machine learning" [ref=e441] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Machine+learning%22
+                  - listitem [ref=e442]:
+                    - link "Computational linguistics" [ref=e443] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Computational+linguistics%22
+                  - listitem [ref=e444]:
+                    - link "Falsifiability" [ref=e445] [cursor=pointer]:
+                      - /url: /search?q=metadata.subjects.subject:%22Falsifiability%22
+            - generic [ref=e446]:
+              - heading "Details" [level=2] [ref=e447]
+              - generic [ref=e449]:
+                - term [ref=e450]: DOI
+                - definition [ref=e451]:
+                  - generic [ref=e452] [cursor=pointer]:
+                    - img "10.5281/zenodo.18792459" [ref=e453]
+                    - button "Copy to clipboard" [ref=e455]:
+                      - generic [ref=e456]: 
+                - term [ref=e457]: Resource type
+                - definition [ref=e458]: Preprint
+                - term [ref=e459]: Publisher
+                - definition [ref=e460]: Zenodo
+            - generic [ref=e461]:
+              - heading "Rights" [level=2] [ref=e462]
+              - generic [ref=e464]:
+                - term [ref=e465]: License
+                - definition [ref=e466] [cursor=pointer]:
+                  - button "Creative Commons Attribution 4.0 International" [ref=e467]:
+                    - img "cc-by-4.0 icon" [ref=e469]
+                    - generic [ref=e470]: Creative Commons Attribution 4.0 International
+                - term [ref=e471]: Copyright
+                - definition [ref=e472]: Copyright 2026 Ello Cello LLC. All Rights Reserved. MO§ES™
+            - generic [ref=e473]:
+              - heading "Citation" [level=2] [ref=e474]
+              - generic [ref=e477]:
+                - generic [ref=e479]:
+                  - text: McHenry, D. J. (2026). A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application (V.034 Technical_Structure_Depth). Zenodo.
+                  - link "https://doi.org/10.5281/zenodo.18792459" [ref=e480] [cursor=pointer]:
+                    - /url: https://doi.org/10.5281/zenodo.18792459
+                - generic [ref=e481]:
+                  - generic [ref=e482]:
+                    - generic [ref=e483]: Style
+                    - listbox "Style" [ref=e484] [cursor=pointer]:
+                      - alert [ref=e485]: APA
+                      - generic [ref=e486]: 
+                  - button "Copy to clipboard" [ref=e487] [cursor=pointer]:
+                    - generic [ref=e488]: 
+            - generic [ref=e489]:
+              - heading "Export" [level=2] [ref=e490]
+              - generic [ref=e493]:
+                - listbox "Export selection" [ref=e495] [cursor=pointer]:
+                  - alert [ref=e496]: JSON
+                  - generic [ref=e497]: 
+                - button "Export" [ref=e499] [cursor=pointer]
+                - button "Copy to clipboard" [ref=e501] [cursor=pointer]:
+                  - generic [ref=e502]: 
+            - note "Upload information" [ref=e503]:
+              - heading "Technical metadata" [level=2] [ref=e504]
+              - generic [ref=e505]:
+                - term [ref=e506]: Created
+                - definition [ref=e507]: February 26, 2026
+                - generic [ref=e508]:
+                  - term [ref=e509]: Modified
+                  - definition [ref=e510]: March 6, 2026
+        - button "Jump to top of page" [ref=e517] [cursor=pointer]:
+          - generic [ref=e518]: 
+          - text: Jump up
+  - contentinfo [ref=e519]:
+    - generic [ref=e522]:
+      - generic [ref=e523]:
+        - heading "About" [level=2] [ref=e524]
+        - list [ref=e525]:
+          - listitem [ref=e526]:
+            - link "About" [ref=e527] [cursor=pointer]:
+              - /url: https://about.zenodo.org
+          - listitem [ref=e528]:
+            - link "Policies" [ref=e529] [cursor=pointer]:
+              - /url: https://about.zenodo.org/policies
+          - listitem [ref=e530]:
+            - link "Infrastructure" [ref=e531] [cursor=pointer]:
+              - /url: https://about.zenodo.org/infrastructure
+          - listitem [ref=e532]:
+            - link "Principles" [ref=e533] [cursor=pointer]:
+              - /url: https://about.zenodo.org/principles
+          - listitem [ref=e534]:
+            - link "Projects" [ref=e535] [cursor=pointer]:
+              - /url: https://about.zenodo.org/projects/
+          - listitem [ref=e536]:
+            - link "Roadmap" [ref=e537] [cursor=pointer]:
+              - /url: https://about.zenodo.org/roadmap/
+          - listitem [ref=e538]:
+            - link "Contact" [ref=e539] [cursor=pointer]:
+              - /url: https://about.zenodo.org/contact
+      - generic [ref=e540]:
+        - heading "Blog" [level=2] [ref=e541]
+        - list [ref=e542]:
+          - listitem [ref=e543]:
+            - link "Blog" [ref=e544] [cursor=pointer]:
+              - /url: https://blog.zenodo.org
+      - generic [ref=e545]:
+        - heading "Support" [level=2] [ref=e546]
+        - list [ref=e547]:
+          - listitem [ref=e548]:
+            - link "Help" [ref=e549] [cursor=pointer]:
+              - /url: https://help.zenodo.org/
+          - listitem [ref=e550]:
+            - link "FAQ" [ref=e551] [cursor=pointer]:
+              - /url: https://support.zenodo.org/help/
+      - generic [ref=e552]:
+        - heading "Developers" [level=2] [ref=e553]
+        - list [ref=e554]:
+          - listitem [ref=e555]:
+            - link "REST API" [ref=e556] [cursor=pointer]:
+              - /url: https://developers.zenodo.org
+          - listitem [ref=e557]:
+            - link "OAI-PMH" [ref=e558] [cursor=pointer]:
+              - /url: https://developers.zenodo.org#oai-pmh
+      - generic [ref=e559]:
+        - heading "Contribute" [level=2] [ref=e560]
+        - list [ref=e561]:
+          - listitem [ref=e562]:
+            - link "GitHub" [ref=e563] [cursor=pointer]:
+              - /url: https://github.com/zenodo/zenodo-rdm
+              - generic [ref=e564]: 
+              - text: GitHub
+          - listitem [ref=e565]:
+            - link "Donate" [ref=e566] [cursor=pointer]:
+              - /url: /donate
+              - generic [ref=e567]: 
+              - text: Donate
+      - generic [ref=e568]:
+        - heading "Funded by" [level=2] [ref=e569]
+        - list [ref=e570]:
+          - listitem [ref=e571]:
+            - link "CERN" [ref=e572] [cursor=pointer]:
+              - /url: https://home.cern
+          - listitem [ref=e573]:
+            - link "OpenAIRE" [ref=e574] [cursor=pointer]:
+              - /url: https://www.openaire.eu
+          - listitem [ref=e575]:
+            - link "European Commission" [ref=e576] [cursor=pointer]:
+              - /url: https://commission.europa.eu/index_en
+    - generic [ref=e579]:
+      - paragraph [ref=e581]:
+        - text: Powered by
+        - link "CERN Data Centre" [ref=e582] [cursor=pointer]:
+          - /url: https://home.cern/science/computing/data-centre
+        - text: "&"
+        - link "InvenioRDM" [ref=e583] [cursor=pointer]:
+          - /url: https://inveniordm.docs.cern.ch/
+      - list [ref=e585]:
+        - listitem [ref=e586]:
+          - link "Status" [ref=e587] [cursor=pointer]:
+            - /url: https://stats.uptimerobot.com/vlYOVuWgM/
+        - listitem [ref=e588]:
+          - link "Privacy policy" [ref=e589] [cursor=pointer]:
+            - /url: https://about.zenodo.org/privacy-policy
+        - listitem [ref=e590]:
+          - link "Cookie policy" [ref=e591] [cursor=pointer]:
+            - /url: https://about.zenodo.org/cookie-policy
+        - listitem [ref=e592]:
+          - link "Terms of Use" [ref=e593] [cursor=pointer]:
+            - /url: https://about.zenodo.org/terms
+  - generic [ref=e594]:
+    - generic [ref=e595] [cursor=pointer]: 
+    - generic [ref=e596]:
+      - generic [ref=e597]: 
+      - paragraph [ref=e598]:
+        - text: This site uses cookies. Find out more on
+        - link "how we use cookies" [ref=e599] [cursor=pointer]:
+          - /url: https://about.zenodo.org/cookie-policy
+    - generic [ref=e600]:
+      - button "Accept all cookies" [ref=e601] [cursor=pointer]
+      - button "Accept only essential cookies" [ref=e602] [cursor=pointer]

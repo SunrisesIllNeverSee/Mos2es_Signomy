@@ -123,6 +123,7 @@ That is the structural difference between "we built governance" and "we formaliz
 |---|---|
 | **Preprint (DOI)** | [Conservation Law for Commitment — Zenodo](https://zenodo.org/records/18792459) |
 | **Falsification Harness** | [Zenodo archive](https://zenodo.org/records/19105225) |
+| **Grokipedia** | [Conservation of Commitment — Grokipedia](https://grokipedia.com/page/Conservation_of_commitment) |
 | **ORCID** | [0009-0002-9904-5390](https://orcid.org/0009-0002-9904-5390) |
 
 **Social**

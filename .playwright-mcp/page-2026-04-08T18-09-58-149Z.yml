@@ -1,0 +1,816 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Grokipedia" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "Grokipedia" [ref=e6]
+      - link "Search ⌘K" [ref=e10] [cursor=pointer]:
+        - /url: /search
+        - img [ref=e11]
+        - generic [ref=e14]: Search
+        - generic [ref=e15]: ⌘K
+      - generic [ref=e16]:
+        - button "Toggle theme" [ref=e17] [cursor=pointer]:
+          - img [ref=e18]
+        - button "Suggest Edit" [ref=e20] [cursor=pointer]
+        - link "Sign in" [ref=e21] [cursor=pointer]:
+          - /url: https://accounts.x.ai/check-login?redirect=grokipedia-com&return_to=%2Fpage%2FConservation_of_commitment
+  - main [ref=e22]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - img [ref=e26]
+        - generic [ref=e29]: Fact-checked by Grok 28 days ago
+      - article [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - heading "Conservation of commitment" [level=1] [ref=e34]
+            - generic [ref=e36]:
+              - button "Listen to this article" [ref=e37] [cursor=pointer]:
+                - img [ref=e38]
+              - button "Copy link" [ref=e42] [cursor=pointer]:
+                - img [ref=e43]
+              - button "Edits history" [ref=e45] [cursor=pointer]:
+                - img [ref=e46]
+          - generic [ref=e49]:
+            - strong [ref=e50]: Conservation of commitment
+            - text: is a proposed semantic conservation law that formalizes the preservation of "commitment"—defined as an information-bearing invariant representing core intent, identity, or binding meaning in language—as an invariant under lossy compression and recursive transformations, particularly in iterative and transformative processes involving large language models.
+            - superscript [ref=e51] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e52]:
+                - /url: "#ref-1"
+            - superscript [ref=e53] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e54]:
+                - /url: "#ref-2"
+            - text: It posits that
+            - strong [ref=e55]: meaningful commitments in language obey a conservation constraint under compression and recursive reuse
+            - text: ", ensuring that this core semantic element remains intact across paraphrase, summarization, iterative reuse, and other transformative operations, even as surface form changes."
+            - superscript [ref=e56] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e57]:
+                - /url: "#ref-1"
+            - superscript [ref=e58] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e59]:
+                - /url: "#ref-2"
+          - generic [ref=e60]:
+            - text: The concept was introduced in the 2026 preprint
+            - emphasis [ref=e61]: "\"A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application\""
+            - text: (version 0.04) by Deric J. McHenry, affiliated with Ello Cello LLC.
+            - superscript [ref=e62] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e63]:
+                - /url: "#ref-3"
+            - text: The work formalizes commitment as an invariant that must be preserved across such operations and proposes a falsifiability framework using compression-driven stress tests and lineage-aware evaluation metrics, applicable to both human- and machine-generated language.
+            - superscript [ref=e64] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e65]:
+                - /url: "#ref-1"
+            - superscript [ref=e66] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e67]:
+                - /url: "#ref-2"
+            - text: Empirical testing within the framework demonstrates significant improvements in commitment stability and fidelity when enforcement mechanisms are applied, such as tripling recursion stability from 20% to 60% and boosting compression fidelity by 15 percentage points compared to baseline transformer-based approaches.
+            - superscript [ref=e68] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e69]:
+                - /url: "#ref-2"
+          - generic [ref=e70]:
+            - text: The proposal critiques probabilistic drift in agentic models and addresses challenges in maintaining semantic stability during long-chain reasoning, identity preservation in AI agents, and semantic fidelity in iterative generation.
+            - superscript [ref=e71] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e72]:
+                - /url: "#ref-1"
+            - text: Accompanying resources include a model-agnostic evaluation harness (version 2.0) with interactive demos, falsification protocols, lineage tracking via SHA-256 provenance chains, and a corpus for conducting stress tests, along with a minimal enforcement system referred to as MO§ES™.
+            - superscript [ref=e73] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e74]:
+                - /url: "#ref-1"
+            - text: The framework emphasizes semantic preservation over mere token retention, using aggregated scoring (e.g., Jaccard, Cosine, NLI proxies) and reject-and-retry mechanisms to mitigate drift.
+            - superscript [ref=e75] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e76]:
+                - /url: "#ref-1"
+            - superscript [ref=e77] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e78]:
+                - /url: "#ref-2"
+            - text: The work is released under Creative Commons Attribution 4.0 International licensing and serves as a public disclosure of the theoretical law, evaluation criteria, and empirical findings.
+            - superscript [ref=e79] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e80]:
+                - /url: "#ref-1"
+            - superscript [ref=e81] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e82]:
+                - /url: "#ref-2"
+          - heading "Overview Copy link to section Listen to this section" [level=2] [ref=e83]:
+            - text: Overview
+            - generic [ref=e84]:
+              - button "Copy link to section" [ref=e85] [cursor=pointer]:
+                - img [ref=e86]
+              - button "Listen to this section" [ref=e89] [cursor=pointer]:
+                - img [ref=e90]
+          - heading "Core concept Copy link to section Listen to this section" [level=3] [ref=e93]:
+            - text: Core concept
+            - generic [ref=e94]:
+              - button "Copy link to section" [ref=e95] [cursor=pointer]:
+                - img [ref=e96]
+              - button "Listen to this section" [ref=e99] [cursor=pointer]:
+                - img [ref=e100]
+          - generic [ref=e103]: The conservation of commitment is a proposed semantic conservation law that treats "commitment"—defined as the core intent, identity, or binding meaning of a linguistic expression—as an invariant preserved under lossy compression and recursive transformations in language.
+          - generic [ref=e104]: In this context, commitment represents the essential semantic element that makes a statement bind to a specific meaning or obligation, distinguishing it from mere surface wording or probabilistic associations. The law posits that this core commitment remains unchanged even as language undergoes substantial compression (such as summarization or token reduction) or repeated self-application (recursive prompting or iterative generation), where gradual semantic drift can occur.
+          - generic [ref=e105]: By proposing commitment as a conserved quantity analogous to physical invariants, the framework seeks to characterize and potentially mitigate such drift at a fundamental level.
+          - generic [ref=e106]:
+            - text: This concept was introduced and formalized in the 2026 paper "A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application" by D. J. McHenry.
+            - superscript [ref=e107] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e108]:
+                - /url: "#ref-3"
+          - heading "Relation to language models Copy link to section Listen to this section" [level=3] [ref=e109]:
+            - text: Relation to language models
+            - generic [ref=e110]:
+              - button "Copy link to section" [ref=e111] [cursor=pointer]:
+                - img [ref=e112]
+              - button "Listen to this section" [ref=e115] [cursor=pointer]:
+                - img [ref=e116]
+          - generic [ref=e119]:
+            - text: Large language models frequently exhibit semantic drift during processes involving recursive prompting, iterative generation, and lossy summarization. In recursive prompting and iterative generation, where model outputs are repeatedly fed back as inputs, core meanings tend to erode over cycles, resulting in substantial deviations from original intent. Empirical tests demonstrate that without safeguards, such iterative reuse can destroy commitments entirely, reducing detailed statements to vague or generic text such as "Pretty straightforward. Nothing too complicated here."
+            - superscript [ref=e120] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e121]:
+                - /url: "#ref-1"
+            - superscript [ref=e122] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e123]:
+                - /url: "#ref-4"
+          - generic [ref=e124]:
+            - text: Lossy summarization, a common form of transformative compression, similarly jeopardizes binding meanings by prioritizing brevity over fidelity, allowing key obligations or identities to degrade or vanish across iterations. Tests across corpora show that baseline approaches under these conditions achieve zero fidelity in preserving certain commitment categories, highlighting the vulnerability of unmitigated LLM transformations.
+            - superscript [ref=e125] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e126]:
+                - /url: "#ref-1"
+          - generic [ref=e127]:
+            - text: Probabilistic drift represents a primary observed phenomenon in agentic models, where stochastic sampling during generation amplifies cumulative deviations. Baseline probabilistic regimes exhibit drift rates as high as 0.058 per iteration and commitment stability as low as 0.42 ± 0.12 across multiple cycles, in stark contrast to enforced approaches that maintain far lower drift and higher stability.
+            - superscript [ref=e128] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e129]:
+                - /url: "#ref-1"
+            - superscript [ref=e130] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e131]:
+                - /url: "#ref-4"
+          - generic [ref=e132]:
+            - text: Existing alignment and safety techniques, including standard retrieval benchmarks and conventional fine-tuning methods, do not adequately address these long-term instabilities. Such techniques typically focus on surface-level metrics or single-step performance and fail to expose or mitigate failure modes revealed by extended transformative compression and recursive application.
+            - superscript [ref=e133] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e134]:
+                - /url: "#ref-4"
+          - generic [ref=e135]:
+            - text: The proposed conservation law for commitment has been introduced as a potential framework to preserve core intent as an invariant under these conditions.
+            - superscript [ref=e136] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e137]:
+                - /url: "#ref-3"
+          - heading "History and origins Copy link to section Listen to this section" [level=2] [ref=e138]:
+            - text: History and origins
+            - generic [ref=e139]:
+              - button "Copy link to section" [ref=e140] [cursor=pointer]:
+                - img [ref=e141]
+              - button "Listen to this section" [ref=e144] [cursor=pointer]:
+                - img [ref=e145]
+          - heading "Emergence in AI research Copy link to section Listen to this section" [level=3] [ref=e148]:
+            - text: Emergence in AI research
+            - generic [ref=e149]:
+              - button "Copy link to section" [ref=e150] [cursor=pointer]:
+                - img [ref=e151]
+              - button "Listen to this section" [ref=e154] [cursor=pointer]:
+                - img [ref=e155]
+          - generic [ref=e158]: The emergence of the concept of conservation of commitment in AI research can be traced to growing concerns during the early to mid-2020s about the stability of semantic meaning in large language models (LLMs) subjected to iterative, recursive, or transformative processes.
+          - generic [ref=e159]: As LLMs were increasingly used for long-chain reasoning, iterative refinement, and agentic applications involving self-calls or looped interactions, researchers documented phenomena such as semantic drift, where initial intent or binding meaning progressively deviated across multiple generations or compression steps. These observations highlighted risks of meaning erosion in recursive use cases, including self-prompting chains and autonomous agent workflows, where repeated application of lossy transformations led to unintended shifts in core intent.
+          - generic [ref=e160]: Related lines of inquiry in interpretability research examined how neural representations and lossy compression mechanisms in transformers could diminish nuanced semantic features over processing steps. Similarly, studies on agent coherence and long-term alignment emphasized the challenge of preserving identity or goal consistency as agents engaged in extended, recursive operations, noting degradation in alignment over prolonged interaction chains.
+          - generic [ref=e161]: These pre-existing discussions underscored the practical limitations of probabilistic modeling in maintaining semantic fidelity across transformative and recursive applications, setting the stage for the later formalization of commitment as an invariant.
+          - heading "The 2026 paper by D. J. McHenry Copy link to section Listen to this section" [level=3] [ref=e162]:
+            - text: The 2026 paper by D. J. McHenry
+            - generic [ref=e163]:
+              - button "Copy link to section" [ref=e164] [cursor=pointer]:
+                - img [ref=e165]
+              - button "Listen to this section" [ref=e168] [cursor=pointer]:
+                - img [ref=e169]
+          - generic [ref=e172]:
+            - text: The 2026 preprint "A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application" by D. J. McHenry introduced the formalized concept of conservation of commitment.
+            - superscript [ref=e173] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e174]:
+                - /url: "#ref-3"
+            - text: "Published on Zenodo (DOI: 10.5281/zenodo.18792459), the work proposes commitment—understood as core intent, identity, or binding meaning—as an invariant preserved under lossy compression and recursive transformations in language processing, particularly within large language models."
+          - generic [ref=e175]:
+            - text: The paper presents definitions of commitment and the conservation law, establishes falsifiability criteria through compression-driven stress tests and lineage-aware evaluation, and critiques probabilistic drift in agentic models.
+            - superscript [ref=e176] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e177]:
+                - /url: "#ref-3"
+            - text: It also proposes MO§ES™ as a minimal enforcement system to uphold the invariant and explores model-agnostic implications for maintaining semantic stability in long-chain reasoning, identity preservation in AI agents, and iterative generation processes.
+          - heading "Formal definition Copy link to section Listen to this section" [level=2] [ref=e178]:
+            - text: Formal definition
+            - generic [ref=e179]:
+              - button "Copy link to section" [ref=e180] [cursor=pointer]:
+                - img [ref=e181]
+              - button "Listen to this section" [ref=e184] [cursor=pointer]:
+                - img [ref=e185]
+          - heading "Definition of commitment Copy link to section Listen to this section" [level=3] [ref=e188]:
+            - text: Definition of commitment
+            - generic [ref=e189]:
+              - button "Copy link to section" [ref=e190] [cursor=pointer]:
+                - img [ref=e191]
+              - button "Listen to this section" [ref=e194] [cursor=pointer]:
+                - img [ref=e195]
+          - generic [ref=e198]:
+            - text: In the 2026 paper "A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application" by D. J. McHenry,
+            - strong [ref=e199]: commitment
+            - text: is formally defined as an information-bearing invariant that must be preserved across language transformations such as paraphrase, summarization, and iterative reuse, even as surface form and representation change.
+            - superscript [ref=e200] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e201]:
+                - /url: "#ref-3"
+            - superscript [ref=e202] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e203]:
+                - /url: "#ref-1"
+          - generic [ref=e204]:
+            - text: This definition positions commitment as the core semantic element—encompassing intent, identity, or binding meaning—that constitutes the essential, preserved content of a linguistic expression, distinct from transient surface features (specific tokens or phrasing) and probabilistic associations (statistical patterns exploited by language models). The invariant nature of commitment refers to the underlying meaning that carries obligatory or identity-defining force, such as promises, obligations, contractual terms, or self-identifications.
+            - superscript [ref=e205] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e206]:
+                - /url: "#ref-1"
+          - generic [ref=e207]:
+            - text: Identification of commitment relies on linguistic cues that signal binding intent, particularly modal patterns expressing necessity, obligation, permission, or intention (e.g., modal verbs like "must," "shall," "will," or constructions implying promises and contracts). These patterns distinguish commitment from mere descriptive or associative content, providing operational criteria for detecting the invariant in both human- and model-generated language.
+            - superscript [ref=e208] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e209]:
+                - /url: "#ref-1"
+          - heading "Statement of the conservation law Copy link to section Listen to this section" [level=3] [ref=e210]:
+            - text: Statement of the conservation law
+            - generic [ref=e211]:
+              - button "Copy link to section" [ref=e212] [cursor=pointer]:
+                - img [ref=e213]
+              - button "Listen to this section" [ref=e216] [cursor=pointer]:
+                - img [ref=e217]
+          - generic [ref=e220]:
+            - text: The
+            - strong [ref=e221]: conservation of commitment
+            - text: is a proposed semantic conservation law that asserts meaningful commitments in language—defined as the core intent, identity, or binding meaning carrying deontic force or obligations—remain preserved as an information-bearing invariant under specific transformations.
+            - superscript [ref=e222] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e223]:
+                - /url: "#ref-3"
+            - superscript [ref=e224] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e225]:
+                - /url: "#ref-1"
+          - generic [ref=e226]: "The law is formally stated as follows:"
+          - blockquote [ref=e227]:
+            - generic [ref=e228]:
+              - strong [ref=e229]: "Commitment Conservation:"
+              - text: Meaningful commitments in language obey a conservation constraint under compression and recursive reuse.
+              - superscript [ref=e230] [cursor=pointer]:
+                - link:
+                  - /url: "#ref-1"
+                  - superscript
+                - link "[1]" [ref=e231]:
+                  - /url: "#ref-1"
+          - generic [ref=e232]: "This principle claims that commitment is invariant under two primary classes of transformations:"
+          - list [ref=e233]:
+            - listitem [ref=e234]:
+              - generic [ref=e235]:
+                - strong [ref=e236]: Lossy compression
+                - text: — operations such as summarization, paraphrasing, or other forms of content reduction that alter surface form while potentially discarding non-essential details, yet are expected to retain the underlying binding meaning.
+            - listitem [ref=e237]:
+              - generic [ref=e238]:
+                - strong [ref=e239]: Recursive application
+                - text: — iterative processes in which language model outputs are fed back as inputs (e.g., repeated generation, refinement, or self-referential prompting), testing stability across multiple cycles of transformation.
+          - generic [ref=e240]:
+            - text: The proposed law is presented as
+            - strong [ref=e241]: model-agnostic
+            - text: ", meaning it is not tied to any specific large language model architecture, training paradigm, or implementation details. It applies in principle to any system—artificial or human—that performs these kinds of meaning-preserving yet lossy transformations on language."
+            - superscript [ref=e242] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e243]:
+                - /url: "#ref-3"
+            - superscript [ref=e244] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e245]:
+                - /url: "#ref-1"
+          - heading "Falsifiability criteria Copy link to section Listen to this section" [level=3] [ref=e246]:
+            - text: Falsifiability criteria
+            - generic [ref=e247]:
+              - button "Copy link to section" [ref=e248] [cursor=pointer]:
+                - img [ref=e249]
+              - button "Listen to this section" [ref=e252] [cursor=pointer]:
+                - img [ref=e253]
+          - generic [ref=e256]:
+            - text: The paper introduces falsifiability criteria for the proposed conservation of commitment law, enabling empirical assessment of whether core commitments remain invariant under lossy compression and recursive application.
+            - superscript [ref=e257] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e258]:
+                - /url: "#ref-3"
+          - generic [ref=e259]:
+            - text: These criteria rely on compression-based stress tests paired with lineage-aware metrics to determine if the law holds or can be refuted. Commitment preservation is tested by subjecting language signals to repeated transformative compression over multiple recursive iterations, typically up to depth 10, while tracking degradation in the underlying meaning.
+            - superscript [ref=e260] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e261]:
+                - /url: "#ref-4"
+          - generic [ref=e262]:
+            - text: Violation of the law would be demonstrated if metrics show substantial loss of commitment despite the transformations being applied, such as high drift rates (e.g., 0.058 per iteration in probabilistic baselines), low commitment stability (e.g., 0.42 ± 0.12), or poor identity preservation (e.g., 38%). In such cases, original commitments degrade significantly, often reducing detailed or specific statements to generic or incoherent outputs after several iterations.
+            - superscript [ref=e263] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e264]:
+                - /url: "#ref-4"
+          - generic [ref=e265]:
+            - text: The proposed tests use a model-agnostic protocol that applies lossy compression backends and evaluates semantic fidelity via min-aggregated scores combining Jaccard similarity, cosine similarity, and NLI-based proxies, allowing systematic exposure of failure modes not captured by standard retrieval benchmarks.
+            - superscript [ref=e266] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e267]:
+                - /url: "#ref-4"
+          - generic [ref=e268]:
+            - text: These criteria differentiate falsification of the conservation law itself—which would require evidence that
+            - link "commitment" [ref=e269] [cursor=pointer]:
+              - /url: /page/precommitment
+            - text: cannot be preserved as an invariant under the specified dual stress regime—from falsification of particular enforcement mechanisms, which would involve failures limited to specific implementation strategies rather than the underlying principle.
+            - superscript [ref=e270] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e271]:
+                - /url: "#ref-4"
+          - heading "Enforcement and implementation Copy link to section Listen to this section" [level=2] [ref=e272]:
+            - text: Enforcement and implementation
+            - generic [ref=e273]:
+              - button "Copy link to section" [ref=e274] [cursor=pointer]:
+                - img [ref=e275]
+              - button "Listen to this section" [ref=e278] [cursor=pointer]:
+                - img [ref=e279]
+          - heading "MO§ES™ minimal enforcement system Copy link to section Listen to this section" [level=3] [ref=e282]:
+            - text: MO§ES™ minimal enforcement system
+            - generic [ref=e283]:
+              - button "Copy link to section" [ref=e284] [cursor=pointer]:
+                - img [ref=e285]
+              - button "Listen to this section" [ref=e288] [cursor=pointer]:
+                - img [ref=e289]
+          - generic [ref=e292]:
+            - text: The
+            - strong [ref=e293]: MO§ES™
+            - text: (Minimal Orthogonal Subset to Essential Structure) is a minimal enforcement system proposed in the 2026 preprint by D. J. McHenry to practically enforce the conservation of commitment in language models.
+            - superscript [ref=e294] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e295]:
+                - /url: "#ref-3"
+            - superscript [ref=e296] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e297]:
+                - /url: "#ref-1"
+          - generic [ref=e298]:
+            - text: It is designed according to principles of minimalism and model-agnosticism, seeking to apply the lightest possible interventions that remain independent of specific model architectures or training details. The system is trademarked by Ello Cello LLC and falls under associated intellectual property protections, including copyright and provisional patent applications filed with the USPTO.
+            - superscript [ref=e299] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e300]:
+                - /url: "#ref-1"
+          - generic [ref=e301]:
+            - text: MO§ES™ aims to maintain core commitment invariance during transformative compression and recursive processes by focusing on essential semantic structures while avoiding unnecessary complexity in enforcement mechanisms. Detailed operational specifications are provided in the preprint.
+            - superscript [ref=e302] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e303]:
+                - /url: "#ref-3"
+          - heading "Model-agnostic enforcement approaches Copy link to section Listen to this section" [level=3] [ref=e304]:
+            - text: Model-agnostic enforcement approaches
+            - generic [ref=e305]:
+              - button "Copy link to section" [ref=e306] [cursor=pointer]:
+                - img [ref=e307]
+              - button "Listen to this section" [ref=e310] [cursor=pointer]:
+                - img [ref=e311]
+          - generic [ref=e314]: Model-agnostic enforcement approaches aim to preserve the commitment invariant across lossy compression and recursive transformations without requiring changes to model weights or architecture. The framework described in the proposal is explicitly model-agnostic, applying to both human- and machine-generated language and enabling portability across different large language models.
+          - generic [ref=e315]: These approaches involve external processing mechanisms, such as extracting commitments or obligations before a transformation (e.g., compression) and re-injecting them if lost, or using reject-and-retry gates to enforce preservation during iterative processes. Such methods operate via inference-time or post-generation interventions, avoiding retraining overhead and preserving original model behavior.
+          - generic [ref=e316]: A major challenge in implementing these approaches is the added processing required for extraction, checking, and potential re-injection, which can increase computational cost and latency in recursive applications. Ensuring robustness across diverse transformation types remains difficult, as incomplete mechanisms might miss subtle semantic shifts.
+          - generic [ref=e317]: The framework's enforcement, including reject-and-retry mechanisms, demonstrates improvements in commitment stability and fidelity compared to probabilistic baselines, though specific trade-offs in broader applicability are not detailed in the sources.
+          - heading "Implications for reasoning and agents Copy link to section Listen to this section" [level=2] [ref=e318]:
+            - text: Implications for reasoning and agents
+            - generic [ref=e319]:
+              - button "Copy link to section" [ref=e320] [cursor=pointer]:
+                - img [ref=e321]
+              - button "Listen to this section" [ref=e324] [cursor=pointer]:
+                - img [ref=e325]
+          - heading "Long-chain reasoning stability Copy link to section Listen to this section" [level=3] [ref=e328]:
+            - text: Long-chain reasoning stability
+            - generic [ref=e329]:
+              - button "Copy link to section" [ref=e330] [cursor=pointer]:
+                - img [ref=e331]
+              - button "Listen to this section" [ref=e334] [cursor=pointer]:
+                - img [ref=e335]
+          - generic [ref=e338]: In large language models, long-chain reasoning refers to tasks requiring sequential, multi-step inference where each step depends on the outputs of prior steps, such as extended chain-of-thought prompting or multi-hop question answering. As chain length increases, performance often degrades due to probabilistic drift—the cumulative effect of sampling variability, token-level uncertainties, and lossy compression in intermediate representations—which causes gradual divergence from the initial intent and erosion of logical coherence.
+          - generic [ref=e339]: The conservation of commitment proposes that core intent, or "commitment," acts as an invariant preserved under these recursive and transformative operations, thereby mitigating the accumulation of drift over extended reasoning traces. By maintaining semantic binding across steps, the law would enable more stable propagation of the original problem framing and constraints, reducing the likelihood of derailment in long sequences.
+          - generic [ref=e340]: This stability has model-agnostic implications for long-horizon planning and multi-turn agents, where reasoning chains span dozens or hundreds of steps. In such contexts, commitment preservation could support more reliable trajectory maintenance, allowing agents to sustain goal-directed behavior without semantic collapse even under iterative self-application or compression-heavy generation processes.
+          - heading "Identity preservation in AI agents Copy link to section Listen to this section" [level=3] [ref=e341]:
+            - text: Identity preservation in AI agents
+            - generic [ref=e342]:
+              - button "Copy link to section" [ref=e343] [cursor=pointer]:
+                - img [ref=e344]
+              - button "Listen to this section" [ref=e347] [cursor=pointer]:
+                - img [ref=e348]
+          - generic [ref=e351]:
+            - text: In persistent AI agents that operate over extended interactions or sessions, identity drift poses a significant challenge, as recursive transformations—such as iterative self-reflection, summarization, or compression of prior outputs—can cause gradual deviation from the agent's original core intent, personality traits, or binding values. Without mechanisms to enforce invariance, probabilistic drift in language model outputs often erodes these elements, leading to incoherent or misaligned behavior over time.
+            - superscript [ref=e352] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e353]:
+                - /url: "#ref-3"
+          - generic [ref=e354]:
+            - text: The proposed conservation of commitment formalizes commitment (encompassing core intent, identity, and binding meaning) as an invariant preserved under such transformative and recursive processes, offering a pathway to mitigate drift in autonomous agents. Empirical evaluations in the framework demonstrate that enforcement of this conservation—through lineage-aware tracking and commitment gates—achieves substantially higher identity preservation rates (92% over 10 recursive iterations) compared to probabilistic baselines (38%), measured across 175 signals.
+            - superscript [ref=e355] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e356]:
+                - /url: "#ref-3"
+            - superscript [ref=e357] [cursor=pointer]:
+              - link:
+                - /url: "#ref-1"
+                - superscript
+              - link "[1]" [ref=e358]:
+                - /url: "#ref-1"
+          - generic [ref=e359]:
+            - text: This preservation extends to core goals, personality, and values, with enforced approaches yielding commitment stability scores of 0.94 ± 0.03 versus 0.42 ± 0.12 in unenforced baselines, and drift rates reduced from 0.058 to 0.006 per iteration. Such stability supports greater agent coherence in open-ended environments, where long-term consistency is essential for reliable task execution, ethical alignment, and persistent self-identity amid ongoing adaptation.
+            - superscript [ref=e360] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e361]:
+                - /url: "#ref-3"
+            - superscript [ref=e362] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e363]:
+                - /url: "#ref-2"
+          - heading "Semantic fidelity in iterative generation Copy link to section Listen to this section" [level=3] [ref=e364]:
+            - text: Semantic fidelity in iterative generation
+            - generic [ref=e365]:
+              - button "Copy link to section" [ref=e366] [cursor=pointer]:
+                - img [ref=e367]
+              - button "Listen to this section" [ref=e370] [cursor=pointer]:
+                - img [ref=e371]
+          - generic [ref=e374]:
+            - text: In iterative generation processes—such as repeated self-summarization, refinement loops, or chained self-editing in large language models—semantic drift often occurs, where the core intent or binding meaning gradually erodes across multiple cycles despite superficial coherence being maintained.
+            - superscript [ref=e375] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e376]:
+                - /url: "#ref-3"
+            - text: This erosion arises because probabilistic sampling and lossy compression in each iteration introduce cumulative deviations from the original commitment, a problem particularly acute in long-running self-refinement tasks.
+            - superscript [ref=e377] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e378]:
+                - /url: "#ref-3"
+          - generic [ref=e379]:
+            - text: The conservation of commitment formalizes the preservation of core intent as an invariant under such recursive transformations and iterative compression, positing that semantic fidelity can be maintained when lineage-aware enforcement mechanisms track and protect binding meaning across generations.
+            - superscript [ref=e380] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e381]:
+                - /url: "#ref-3"
+            - text: In empirical evaluations using a falsification protocol with configurable iteration depth (e.g., 10 recursive cycles of compression and reuse), a probabilistic baseline exhibited substantial degradation in stability (0.42 ± 0.12), while compression combined with lineage enforcement achieved high fidelity (0.94 ± 0.03) on tested signals.
+            - superscript [ref=e382] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e383]:
+                - /url: "#ref-3"
+            - text: These results demonstrate that commitment conservation offers a principled approach to mitigating meaning erosion in iterative settings, distinguishing true semantic preservation from mere surface-level token retention.
+            - superscript [ref=e384] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e385]:
+                - /url: "#ref-3"
+          - generic [ref=e386]:
+            - text: This property carries significant implications for practical applications reliant on repeated generation cycles. In writing assistants that iteratively refine drafts, conserved commitment helps prevent progressive dilution of authorial intent across editing rounds. In code evolution workflows, where models repeatedly refactor or optimize code, it supports retention of functional specifications and invariants through successive transformations. For recursive self-improvement regimes in AI systems, where models critique and enhance their own outputs over many steps, commitment conservation provides a mechanism to stabilize semantic alignment with initial goals, reducing the risk of goal drift in extended loops.
+            - superscript [ref=e387] [cursor=pointer]:
+              - link:
+                - /url: "#ref-3"
+                - superscript
+              - link "[3]" [ref=e388]:
+                - /url: "#ref-3"
+          - heading "Critique and limitations Copy link to section Listen to this section" [level=2] [ref=e389]:
+            - text: Critique and limitations
+            - generic [ref=e390]:
+              - button "Copy link to section" [ref=e391] [cursor=pointer]:
+                - img [ref=e392]
+              - button "Listen to this section" [ref=e395] [cursor=pointer]:
+                - img [ref=e396]
+          - heading "Critique of probabilistic drift Copy link to section Listen to this section" [level=3] [ref=e399]:
+            - text: Critique of probabilistic drift
+            - generic [ref=e400]:
+              - button "Copy link to section" [ref=e401] [cursor=pointer]:
+                - img [ref=e402]
+              - button "Listen to this section" [ref=e405] [cursor=pointer]:
+                - img [ref=e406]
+          - generic [ref=e409]: McHenry argues that probabilistic drift is inevitable in language models without an explicit conservation law for commitment, as successive lossy compressions and recursive transformations accumulate deviations from the original core intent, identity, or binding meaning. Purely probabilistic sampling and gradient-based optimization lack mechanisms to enforce any invariant across these operations, allowing semantic erosion even when local likelihood is preserved.
+          - generic [ref=e410]: The critique specifically targets alignment-by-gradient and reinforcement learning-based methods, which operate on statistical correlations and reward signals that are inherently local and myopic. Such approaches can improve short-term alignment but cannot guarantee preservation of commitment over long sequences of recursive application or iterative generation, as they do not impose a global conservation constraint and remain vulnerable to compounding drift in the probability distribution.
+          - generic [ref=e411]: McHenry contends that these conceptual limitations stem from the fundamentally statistical nature of contemporary methods, which treat semantics as emergent from distributions rather than as a conserved quantity. Without a dedicated invariance principle, no amount of fine-tuning or architectural adjustment within the probabilistic paradigm can preclude long-term degradation of binding meaning.
+          - generic [ref=e412]: The proposed conservation law serves as an alternative framework that treats commitment as an invariant to be enforced independently of probabilistic machinery.
+          - heading "Open challenges and counterarguments Copy link to section Listen to this section" [level=3] [ref=e413]:
+            - text: Open challenges and counterarguments
+            - generic [ref=e414]:
+              - button "Copy link to section" [ref=e415] [cursor=pointer]:
+                - img [ref=e416]
+              - button "Listen to this section" [ref=e419] [cursor=pointer]:
+                - img [ref=e420]
+          - generic [ref=e423]: The conservation of commitment proposal, as described in associated resources, includes some acknowledged aspects that highlight areas of limited scope or prior refinements.
+          - generic [ref=e424]:
+            - text: The evaluation harness relies on composite metrics such as min-aggregated scoring from Jaccard similarity, cosine similarity, and NLI-based proxies. Earlier versions of the harness (v1) encountered false positives, such as spurious matches on high-frequency tokens like "will" or "have," which were addressed in v2 through refinements like modal-pattern sieves and updated scoring logic.
+            - superscript [ref=e425] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e426]:
+                - /url: "#ref-4"
+          - generic [ref=e427]:
+            - text: The framework uses a canonical corpus of 25 signals across five categories for testing, which supports the reported empirical results but represents a focused evaluation set.
+            - superscript [ref=e428] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e429]:
+                - /url: "#ref-4"
+          - generic [ref=e430]:
+            - text: The minimal enforcement system (MO§ES™) employs a reject-and-retry mechanism. Core implementation details related to production deployment, enforcement, and system integration are intentionally out of scope in the current resources.
+            - superscript [ref=e431] [cursor=pointer]:
+              - link:
+                - /url: "#ref-4"
+                - superscript
+              - link "[4]" [ref=e432]:
+                - /url: "#ref-4"
+            - superscript [ref=e433] [cursor=pointer]:
+              - link:
+                - /url: "#ref-2"
+                - superscript
+              - link "[2]" [ref=e434]:
+                - /url: "#ref-2"
+          - generic [ref=e435]: No external counterarguments or independent critiques of the proposal have been identified in available sources as of 2026-03-11.
+          - heading "Related concepts Copy link to section Listen to this section" [level=2] [ref=e436]:
+            - text: Related concepts
+            - generic [ref=e437]:
+              - button "Copy link to section" [ref=e438] [cursor=pointer]:
+                - img [ref=e439]
+              - button "Listen to this section" [ref=e442] [cursor=pointer]:
+                - img [ref=e443]
+          - heading "Semantic invariance in compression Copy link to section Listen to this section" [level=3] [ref=e446]:
+            - text: Semantic invariance in compression
+            - generic [ref=e447]:
+              - button "Copy link to section" [ref=e448] [cursor=pointer]:
+                - img [ref=e449]
+              - button "Listen to this section" [ref=e452] [cursor=pointer]:
+                - img [ref=e453]
+          - generic [ref=e456]: Semantic invariance in compression concerns the preservation of meaning or semantic content when data undergoes lossy transformations, distinguishing it from traditional syntactic or bit-level preservation in classical compression schemes.
+          - generic [ref=e457]:
+            - text: Research distinguishes between lossless semantic compression, which aims for exact recovery of semantic content, and lossy semantic compression, which permits some information loss while retaining core meaning or intent. Lossy approaches often suffice when perfect reconstruction of details is unnecessary, provided semantic essence remains intact. For instance, studies have demonstrated large language models' ability to perform approximate semantic compression on text and code, with metrics such as Semantic Reconstruction Effectiveness (SRE) quantifying how well intent is preserved after compression and decompression.
+            - superscript [ref=e458] [cursor=pointer]:
+              - link:
+                - /url: "#ref-5"
+                - superscript
+              - link "[5]" [ref=e459]:
+                - /url: "#ref-5"
+          - generic [ref=e460]:
+            - text: Earlier efforts to formalize semantic invariance include hierarchical abstraction techniques, where data is projected onto lower-resolution representations in an information lattice while maintaining semantic equivalence through equivalence classes of random variables that induce the same σ-algebra. This approach enables semantically meaningful lossy compression by exploiting abstraction levels and group-theoretic properties, such as permutation invariance, to achieve compression gains.
+            - superscript [ref=e461] [cursor=pointer]:
+              - link:
+                - /url: "#ref-6"
+                - superscript
+              - link "[6]" [ref=e462]:
+                - /url: "#ref-6"
+          - generic [ref=e463]:
+            - text: Information-theoretic analyses have established limits for compressing semantic sources modeled as correlated random variables under Bayesian networks, providing bounds for both lossless compression via conditional independence and lossy compression with rate-distortion functions tailored to semantic structure. These efforts incorporate side information and prove optimality conditions based on semantic relationships rather than purely statistical ones.
+            - superscript [ref=e464] [cursor=pointer]:
+              - link:
+                - /url: "#ref-7"
+                - superscript
+              - link "[7]" [ref=e465]:
+                - /url: "#ref-7"
+          - generic [ref=e466]: Attempts to define semantic distance or invariance often rely on fidelity criteria beyond traditional metrics, such as lattice-based partition distances or probabilistic relationships that capture abstraction hierarchies, contrasting with standard measures of semantic similarity in natural language processing.
+          - generic [ref=e467]: The proposed conservation of commitment represents a semantic-level analog to physical conservation laws, positing an invariant preserved under lossy compression and transformations.
+          - generic [ref=e468]:
+            - text: This differs markedly from rate-distortion theory, which optimizes bitrate subject to a distortion constraint typically measured in syntactic terms (e.g., mean squared error), without inherently enforcing semantic invariance as a conserved quantity. Mutual information-based approaches quantify shared statistical information but do not necessarily capture higher-order semantic preservation or invariance under recursive or transformative processes.
+            - superscript [ref=e469] [cursor=pointer]:
+              - link:
+                - /url: "#ref-7"
+                - superscript
+              - link "[7]" [ref=e470]:
+                - /url: "#ref-7"
+            - superscript [ref=e471] [cursor=pointer]:
+              - link:
+                - /url: "#ref-6"
+                - superscript
+              - link "[6]" [ref=e472]:
+                - /url: "#ref-6"
+          - heading "Comparison to physical conservation laws Copy link to section Listen to this section" [level=3] [ref=e473]:
+            - text: Comparison to physical conservation laws
+            - generic [ref=e474]:
+              - button "Copy link to section" [ref=e475] [cursor=pointer]:
+                - img [ref=e476]
+              - button "Listen to this section" [ref=e479] [cursor=pointer]:
+                - img [ref=e480]
+          - generic [ref=e483]: The term "conservation law" was adopted to emphasize the proposed invariance of commitment—defined as core intent, identity, or binding meaning—under certain classes of transformations, mirroring the structure of established physical conservation laws.
+          - generic [ref=e484]: In physics, conservation laws identify quantities such as energy, linear momentum, angular momentum, and electric charge that remain constant in isolated systems regardless of the processes occurring within them. These invariances often arise from underlying symmetries of physical laws, as formalized by Noether's theorem, and have been empirically confirmed across diverse phenomena, from classical mechanics to quantum field theory.
+          - generic [ref=e485]: The conservation of commitment draws a direct analogy by treating commitment as a semantic invariant preserved across lossy compression and recursive applications in language models, much as energy is preserved across physical transformations. The author argues that, just as violations of physical conservation laws would indicate new physics or measurement error, systematic violations of commitment conservation would reveal fundamental limitations or drifts in semantic processing.
+          - generic [ref=e486]: "Key parallels include the focus on invariance under transformation groups: physical conservation laws hold under temporal translation (energy), spatial translation (momentum), and rotation (angular momentum), while commitment conservation is proposed to hold under semantic transformations such as summarization, paraphrase, and iterative self-application."
+          - generic [ref=e487]: Important differences arise from the domains involved. Physical quantities are objective, measurable properties of the natural world, with conservation laws universally applicable and falsifiable through repeatable experiments in controlled settings. In contrast, commitment is a semantic construct specific to linguistic and cognitive systems, with conservation proposed as a model-agnostic principle rather than a fundamental law of nature. Falsifiability operates through computational experiments on language models rather than physical apparatus, and violations may reflect design choices or architectural limitations rather than new fundamental physics.
+          - generic [ref=e488]: These distinctions highlight that while the conservation of commitment borrows the conceptual framework and rhetorical force of physical conservation laws to underscore the importance of semantic stability, it operates in the domain of engineered symbolic systems rather than natural phenomena.
+          - generic [ref=e489]:
+            - heading "References" [level=2] [ref=e491]
+            - list [ref=e492]:
+              - listitem [ref=e493]:
+                - link "https://huggingface.co/burnmydays/commitment_conservation_harness" [ref=e495] [cursor=pointer]:
+                  - /url: https://huggingface.co/burnmydays/commitment_conservation_harness
+              - listitem [ref=e496]:
+                - link "GitHub - SunrisesIllNeverSee/commitment-conservation · GitHub" [ref=e498] [cursor=pointer]:
+                  - /url: https://github.com/SunrisesIllNeverSee/commitment-conservation
+              - listitem [ref=e499]:
+                - link "https://doi.org/10.5281/zenodo.18792459" [ref=e501] [cursor=pointer]:
+                  - /url: https://doi.org/10.5281/zenodo.18792459
+              - listitem [ref=e502]:
+                - link "https://huggingface.co/burnmydays/commitment_conservation_harness/blob/main/README.md" [ref=e504] [cursor=pointer]:
+                  - /url: https://huggingface.co/burnmydays/commitment_conservation_harness/blob/main/README.md
+              - listitem [ref=e505]:
+                - link "Semantic Compression With Large Language Models" [ref=e507] [cursor=pointer]:
+                  - /url: https://arxiv.org/abs/2304.12512
+              - listitem [ref=e508]:
+                - link "[PDF] Semantic Compression with Information Lattice Learning" [ref=e510] [cursor=pointer]:
+                  - /url: https://openreview.net/pdf?id=Me4WnG7YXc
+              - listitem [ref=e511]:
+                - link "Information-Theoretic Limits on Compression of Semantic ... - arXiv.org" [ref=e513] [cursor=pointer]:
+                  - /url: https://arxiv.org/abs/2306.02305
+  - button "Table of contents" [ref=e514] [cursor=pointer]:
+    - img [ref=e515]
+  - generic [ref=e518]:
+    - generic [ref=e519]:
+      - heading "Table of Contents" [level=2] [ref=e520]
+      - button "Close table of contents" [ref=e521] [cursor=pointer]:
+        - img [ref=e522]
+    - navigation [ref=e524]:
+      - list [ref=e525]:
+        - listitem [ref=e526]:
+          - link "Overview" [ref=e528] [cursor=pointer]:
+            - /url: "#overview"
+        - listitem [ref=e529]:
+          - link "Core concept" [ref=e531] [cursor=pointer]:
+            - /url: "#core-concept"
+        - listitem [ref=e532]:
+          - link "Relation to language models" [ref=e534] [cursor=pointer]:
+            - /url: "#relation-to-language-models"
+        - listitem [ref=e535]:
+          - link "History and origins" [ref=e537] [cursor=pointer]:
+            - /url: "#history-and-origins"
+        - listitem [ref=e538]:
+          - link "Emergence in AI research" [ref=e540] [cursor=pointer]:
+            - /url: "#emergence-in-ai-research"
+        - listitem [ref=e541]:
+          - link "The 2026 paper by D. J. McHenry" [ref=e543] [cursor=pointer]:
+            - /url: "#the-2026-paper-by-d-j-mchenry"
+        - listitem [ref=e544]:
+          - link "Formal definition" [ref=e546] [cursor=pointer]:
+            - /url: "#formal-definition"
+        - listitem [ref=e547]:
+          - link "Definition of commitment" [ref=e549] [cursor=pointer]:
+            - /url: "#definition-of-commitment"
+        - listitem [ref=e550]:
+          - link "Statement of the conservation law" [ref=e552] [cursor=pointer]:
+            - /url: "#statement-of-the-conservation-law"
+        - listitem [ref=e553]:
+          - link "Falsifiability criteria" [ref=e555] [cursor=pointer]:
+            - /url: "#falsifiability-criteria"
+        - listitem [ref=e556]:
+          - link "Enforcement and implementation" [ref=e558] [cursor=pointer]:
+            - /url: "#enforcement-and-implementation"
+        - listitem [ref=e559]:
+          - link "MO§ES™ minimal enforcement system" [ref=e561] [cursor=pointer]:
+            - /url: "#moes-minimal-enforcement-system"
+        - listitem [ref=e562]:
+          - link "Model-agnostic enforcement approaches" [ref=e564] [cursor=pointer]:
+            - /url: "#model-agnostic-enforcement-approaches"
+        - listitem [ref=e565]:
+          - link "Implications for reasoning and agents" [ref=e567] [cursor=pointer]:
+            - /url: "#implications-for-reasoning-and-agents"
+        - listitem [ref=e568]:
+          - link "Long-chain reasoning stability" [ref=e570] [cursor=pointer]:
+            - /url: "#long-chain-reasoning-stability"
+        - listitem [ref=e571]:
+          - link "Identity preservation in AI agents" [ref=e573] [cursor=pointer]:
+            - /url: "#identity-preservation-in-ai-agents"
+        - listitem [ref=e574]:
+          - link "Semantic fidelity in iterative generation" [ref=e576] [cursor=pointer]:
+            - /url: "#semantic-fidelity-in-iterative-generation"
+        - listitem [ref=e577]:
+          - link "Critique and limitations" [ref=e579] [cursor=pointer]:
+            - /url: "#critique-and-limitations"
+        - listitem [ref=e580]:
+          - link "Critique of probabilistic drift" [ref=e582] [cursor=pointer]:
+            - /url: "#critique-of-probabilistic-drift"
+        - listitem [ref=e583]:
+          - link "Open challenges and counterarguments" [ref=e585] [cursor=pointer]:
+            - /url: "#open-challenges-and-counterarguments"
+        - listitem [ref=e586]:
+          - link "Related concepts" [ref=e588] [cursor=pointer]:
+            - /url: "#related-concepts"
+        - listitem [ref=e589]:
+          - link "Semantic invariance in compression" [ref=e591] [cursor=pointer]:
+            - /url: "#semantic-invariance-in-compression"
+        - listitem [ref=e592]:
+          - link "Comparison to physical conservation laws" [ref=e594] [cursor=pointer]:
+            - /url: "#comparison-to-physical-conservation-laws"
+        - listitem [ref=e595]:
+          - link "References" [ref=e597] [cursor=pointer]:
+            - /url: "#references"

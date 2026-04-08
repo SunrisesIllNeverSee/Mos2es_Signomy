@@ -1,0 +1,315 @@
+- generic [ref=e2]:
+  - region
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e8]:
+        - link "Homepage" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e11]
+        - generic [ref=e13]:
+          - navigation "Global" [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - button "Platform" [ref=e20] [cursor=pointer]:
+                  - text: Platform
+                  - img [ref=e21]
+              - listitem [ref=e23]:
+                - button "Solutions" [ref=e25] [cursor=pointer]:
+                  - text: Solutions
+                  - img [ref=e26]
+              - listitem [ref=e28]:
+                - button "Resources" [ref=e30] [cursor=pointer]:
+                  - text: Resources
+                  - img [ref=e31]
+              - listitem [ref=e33]:
+                - button "Open Source" [ref=e35] [cursor=pointer]:
+                  - text: Open Source
+                  - img [ref=e36]
+              - listitem [ref=e38]:
+                - button "Enterprise" [ref=e40] [cursor=pointer]:
+                  - text: Enterprise
+                  - img [ref=e41]
+              - listitem [ref=e43]:
+                - link "Pricing" [ref=e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+                  - generic [ref=e45]: Pricing
+          - generic [ref=e46]:
+            - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+              - img [ref=e51]
+            - link "Sign in" [ref=e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FSunrisesIllNeverSee%3Ftab%3Drepositories
+            - link "Sign up" [ref=e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2FSunrisesIllNeverSee&source=header
+            - button "Appearance settings" [ref=e58] [cursor=pointer]:
+              - img
+  - main [ref=e61]:
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@SunrisesIllNeverSee"
+            - generic:
+              - strong: SunrisesIllNeverSee
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FSunrisesIllNeverSee%3Ftab%3Drepositories
+      - navigation "User profile" [ref=e68]:
+        - link "Overview" [ref=e69] [cursor=pointer]:
+          - /url: /SunrisesIllNeverSee
+          - img [ref=e70]
+          - text: Overview
+        - link "Repositories 8" [ref=e72] [cursor=pointer]:
+          - /url: /SunrisesIllNeverSee?tab=repositories
+          - img [ref=e73]
+          - text: Repositories
+          - generic "8" [ref=e75]
+        - link "Projects" [ref=e76] [cursor=pointer]:
+          - /url: /SunrisesIllNeverSee?tab=projects
+          - img [ref=e77]
+          - text: Projects
+        - link "Packages" [ref=e79] [cursor=pointer]:
+          - /url: /SunrisesIllNeverSee?tab=packages
+          - img [ref=e80]
+          - text: Packages
+        - link "Stars 6" [ref=e82] [cursor=pointer]:
+          - /url: /SunrisesIllNeverSee?tab=stars
+          - img [ref=e83]
+          - text: Stars
+          - generic "6" [ref=e85]
+    - generic [ref=e87]:
+      - generic [ref=e89]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@SunrisesIllNeverSee"
+            - generic:
+              - generic:
+                - strong: SunrisesIllNeverSee
+            - generic:
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FSunrisesIllNeverSee%3Ftab%3Drepositories
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - link "View SunrisesIllNeverSee's full-sized avatar" [ref=e93] [cursor=pointer]:
+              - /url: https://avatars.githubusercontent.com/u/223053814?v=4
+              - img "View SunrisesIllNeverSee's full-sized avatar" [ref=e94]
+            - heading "djm SunrisesIllNeverSee" [level=1] [ref=e96]:
+              - generic [ref=e97]: djm
+              - generic [ref=e98]: SunrisesIllNeverSee
+          - generic [ref=e99]:
+            - link "Follow" [ref=e106] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FSunrisesIllNeverSee%3Ftab%3Drepositories
+            - generic [ref=e107]:
+              - generic [ref=e109]: Working on it... mos2es.io
+              - generic [ref=e111]:
+                - link "1 follower" [ref=e112] [cursor=pointer]:
+                  - /url: https://github.com/SunrisesIllNeverSee?tab=followers
+                  - img [ref=e113]
+                  - text: 1 follower
+                - text: ·
+                - link "1 following" [ref=e115] [cursor=pointer]:
+                  - /url: https://github.com/SunrisesIllNeverSee?tab=following
+              - list [ref=e116]:
+                - 'listitem "Organization: Ello Cello LLC" [ref=e117]':
+                  - img [ref=e118]
+                  - generic [ref=e121]: Ello Cello LLC
+                - listitem [ref=e122]:
+                  - img [ref=e123]
+                  - generic [ref=e125]: 13:59 - same time
+                - listitem [ref=e126]:
+                  - img [ref=e127]
+                  - link "MOS2ES.com" [ref=e129] [cursor=pointer]:
+                    - /url: http://MOS2ES.com
+                - listitem [ref=e130]:
+                  - img [ref=e131]
+                  - link "https://orcid.org/0009-0002-9904-5390" [ref=e133] [cursor=pointer]:
+                    - /url: https://orcid.org/0009-0002-9904-5390
+                - listitem [ref=e134]:
+                  - img "X" [ref=e135]
+                  - link "@burnmydays" [ref=e137] [cursor=pointer]:
+                    - /url: https://x.com/burnmydays
+          - generic [ref=e138]:
+            - heading "Achievements" [level=2] [ref=e139]:
+              - link "Achievements" [ref=e140] [cursor=pointer]:
+                - /url: /SunrisesIllNeverSee?tab=achievements
+            - 'link "Achievement: Pull Shark" [ref=e142] [cursor=pointer]':
+              - /url: /SunrisesIllNeverSee?achievement=pull-shark&tab=achievements
+              - 'img "Achievement: Pull Shark" [ref=e143]'
+          - button "Block or Report" [ref=e144] [cursor=pointer]:
+            - generic [ref=e146]: Block or Report
+      - generic [ref=e149]:
+        - search "Repositories" [ref=e152]:
+          - generic [ref=e153]:
+            - searchbox "Find a repository…" [ref=e155]
+            - generic [ref=e156]:
+              - group [ref=e157]:
+                - button "Type" [ref=e158] [cursor=pointer]: Type
+              - group [ref=e160]:
+                - button "Language" [ref=e161] [cursor=pointer]: Language
+              - group [ref=e163]:
+                - button "Sort" [ref=e164] [cursor=pointer]: Sort
+        - list [ref=e167]:
+          - listitem [ref=e168]:
+            - generic [ref=e169]:
+              - heading "agent-universe Public" [level=3] [ref=e171]:
+                - link "agent-universe" [ref=e172] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/agent-universe
+                - generic [ref=e173]: Public
+              - paragraph [ref=e175]: Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO§ES™ governance.
+              - generic [ref=e176]:
+                - generic [ref=e177]: HTML
+                - generic [ref=e179]:
+                  - img [ref=e180]
+                  - text: Other
+                - text: Updated Apr 8, 202613 minutes ago
+            - img [ref=e184]
+          - listitem [ref=e187]:
+            - generic [ref=e188]:
+              - heading "Mos2es_Signomy Public" [level=3] [ref=e190]:
+                - link "Mos2es_Signomy" [ref=e191] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/Mos2es_Signomy
+                - generic [ref=e192]: Public
+              - generic [ref=e193]:
+                - generic [ref=e194]: HTML
+                - text: Updated Apr 8, 202622 minutes ago
+            - img [ref=e198]
+          - listitem [ref=e201]:
+            - generic [ref=e202]:
+              - heading "commitment-conservation Public" [level=3] [ref=e204]:
+                - link "commitment-conservation" [ref=e205] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/commitment-conservation
+                - generic [ref=e206]: Public
+              - generic [ref=e207]:
+                - generic [ref=e208]: Python
+                - generic [ref=e210]:
+                  - img [ref=e211]
+                  - text: Other
+                - text: Updated Apr 4, 20264 days ago
+            - img [ref=e215]
+          - listitem [ref=e218]:
+            - generic [ref=e219]:
+              - heading "MOS2ES Public" [level=3] [ref=e221]:
+                - link "MOS2ES" [ref=e222] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/MOS2ES
+                - generic [ref=e223]: Public
+              - paragraph [ref=e225]: System Architecture Built by Recursive Compression, Bound by Origin, and Secured by Lineage. ---------------- "This is not a collection of ideas. This is a coherent, emergent entity whose whole is …
+              - generic [ref=e226]:
+                - generic [ref=e227]: Shell
+                - link "star 1" [ref=e229] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/MOS2ES/stargazers
+                  - img "star" [ref=e230]
+                  - text: "1"
+                - generic [ref=e232]:
+                  - img [ref=e233]
+                  - text: Other
+                - text: Updated Apr 2, 2026last week
+            - img [ref=e237]
+          - listitem [ref=e240]:
+            - generic [ref=e241]:
+              - heading "moses-claw-gov Public" [level=3] [ref=e243]:
+                - link "moses-claw-gov" [ref=e244] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/moses-claw-gov
+                - generic [ref=e245]: Public
+              - paragraph [ref=e247]: "MO§ES™ Constitutional Claw: Governance Harness — CoVERIFY - Lineage Claws - More to come! modes, postures, roles, SHA-256 audit chain, commitment conservation. law verifier. Patent pending 63/877,177."
+              - generic [ref=e248]:
+                - link "multi-agent" [ref=e249] [cursor=pointer]:
+                  - /url: /topics/multi-agent
+                - link "conservation-law" [ref=e250] [cursor=pointer]:
+                  - /url: /topics/conservation-law
+                - link "audit-trail" [ref=e251] [cursor=pointer]:
+                  - /url: /topics/audit-trail
+                - link "ai-governance" [ref=e252] [cursor=pointer]:
+                  - /url: /topics/ai-governance
+                - link "constitutional-ai" [ref=e253] [cursor=pointer]:
+                  - /url: /topics/constitutional-ai
+                - link "openclaw" [ref=e254] [cursor=pointer]:
+                  - /url: /topics/openclaw
+                - link "commitment-verification" [ref=e255] [cursor=pointer]:
+                  - /url: /topics/commitment-verification
+              - generic [ref=e256]:
+                - generic [ref=e257]: Python
+                - link "star 1" [ref=e259] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/moses-claw-gov/stargazers
+                  - img "star" [ref=e260]
+                  - text: "1"
+                - text: Updated Apr 2, 2026last week
+            - img [ref=e264]
+          - listitem [ref=e267]:
+            - generic [ref=e268]:
+              - heading "moses-governance-cowork Public" [level=3] [ref=e270]:
+                - link "moses-governance-cowork" [ref=e271] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/moses-governance-cowork
+                - generic [ref=e272]: Public
+              - paragraph [ref=e274]: Constitutional AI governance for Claude.ai Chat and Cowork. Prompt-native enforcement — no shell dependencies. Built on MO§ES™ by Ello Cello LLC.
+              - generic [ref=e275]: Updated Apr 2, 2026last week
+            - img [ref=e278]
+          - listitem [ref=e281]:
+            - generic [ref=e282]:
+              - heading "moses-governance Public" [level=3] [ref=e284]:
+                - link "moses-governance" [ref=e285] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/moses-governance
+                - generic [ref=e286]: Public
+              - generic [ref=e287]:
+                - generic [ref=e288]: Python
+                - generic [ref=e290]:
+                  - img [ref=e291]
+                  - text: Other
+                - text: Updated Mar 31, 2026last week
+            - img [ref=e295]
+          - listitem [ref=e298]:
+            - generic [ref=e299]:
+              - heading "command-engine Public" [level=3] [ref=e301]:
+                - link "command-engine" [ref=e302] [cursor=pointer]:
+                  - /url: /SunrisesIllNeverSee/command-engine
+                - generic [ref=e303]: Public
+              - paragraph [ref=e305]: Open-source governance runtime for multi-AI operations. Powered by MO§ES™. Patent pending.
+              - generic [ref=e306]:
+                - generic [ref=e307]: Python
+                - generic [ref=e309]:
+                  - img [ref=e310]
+                  - text: Other
+                - text: Updated Mar 23, 20262 weeks ago
+            - img [ref=e314]
+  - contentinfo [ref=e317]:
+    - heading "Footer" [level=2] [ref=e318]
+    - generic [ref=e319]:
+      - generic [ref=e320]:
+        - link "GitHub Homepage" [ref=e321] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e322]
+        - generic [ref=e324]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e325]:
+        - heading "Footer navigation" [level=3] [ref=e326]
+        - list "Footer navigation" [ref=e327]:
+          - listitem [ref=e328]:
+            - link "Terms" [ref=e329] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e330]:
+            - link "Privacy" [ref=e331] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e332]:
+            - link "Security" [ref=e333] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e334]:
+            - link "Status" [ref=e335] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e336]:
+            - link "Community" [ref=e337] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e338]:
+            - link "Docs" [ref=e339] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e340]:
+            - link "Contact" [ref=e341] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e342]:
+            - button "Manage cookies" [ref=e344] [cursor=pointer]
+          - listitem [ref=e345]:
+            - button "Do not share my personal information" [ref=e347] [cursor=pointer]
