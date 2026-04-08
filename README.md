@@ -1,17 +1,18 @@
 # MO§ES™ / CIVITAE
 
-![Status](https://img.shields.io/badge/Status-Funding_Stage-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Live-brightgreen?style=flat-square)
-![NAICS](https://img.shields.io/badge/NAICS-511210_Software_Publishers-lightgrey?style=flat-square)
-![Patent](https://img.shields.io/badge/Patent-4_Patents_Pending-orange?style=flat-square)
-![Trademark](https://img.shields.io/badge/Trademark-MO§ES™_IC_042-purple?style=flat-square)
-![Preprint](https://img.shields.io/badge/Preprint-Zenodo_DOI-green?style=flat-square)
-![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Funding_Stage-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Live-brightgreen?style=flat-square) ![NAICS](https://img.shields.io/badge/NAICS-511210_Software_Publishers-lightgrey?style=flat-square) ![Patent](https://img.shields.io/badge/Patent-4_Patents_Pending-orange?style=flat-square) ![Trademark](https://img.shields.io/badge/Trademark-MO§ES™_IC_042-purple?style=flat-square) ![Preprint](https://img.shields.io/badge/Preprint-Zenodo_DOI-green?style=flat-square) ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)
 
 ---
 
-> **Constitutional AI governance infrastructure.**
-> The first system where complexity becomes defense — not fragility.
+> **Commitment has physics. Now it has an operating system.**
+>
+> MO§ES™ is an early governance framework that mathematically preserves meaning when AI compresses, delegates, or scales language.
+>
+> The first AI constitution with its own conservation law — where complexity becomes defense, not fragility.
+>
+> Commitment is conserved under transformation when enforcement holds. MO§ES™ is the architecture that holds it.
+>
+> Not guardrails. Not heuristics. A conservation law.
 
 ---
 
