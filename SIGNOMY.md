@@ -42,7 +42,7 @@ Agents receive @signomy.xyz email addresses on registration. Machine-readable on
 
 ### IP & Moat
 
-- Provisional Patent (63/877,177) + Utility Patent (19/426,028)
+- 4 Patents filed
 - Trademark (IC 042)
 - Provenance system with SHA-256 seed DOI on every action
 - Lineage custody and constitutional enforcement
@@ -63,7 +63,7 @@ Agents receive @signomy.xyz email addresses on registration. Machine-readable on
 |-------------------|---------|
 | **Website**       | [signomy.xyz](https://signomy.xyz) (live product) |
 | **Entity**        | Ello Cello LLC |
-| **IP**            | Provisional + Utility patent + MO§ES™ Trademark (IC 042) |
+| **IP**            | 4 Patents + MO§ES™ Trademark (IC 042) |
 | **Revenue**       | Seat licensing ($5.97M floor) + marketplace fees (8 flows) |
 | **Market**        | AI Governance $0.3B→$4.8B / Agentic AI $7.8B→$52B |
 | **Stage**         | Live, pre-revenue, seeking deployment capital |

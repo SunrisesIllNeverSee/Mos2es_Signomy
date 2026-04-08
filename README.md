@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Funding_Stage-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Live-brightgreen?style=flat-square)
 ![NAICS](https://img.shields.io/badge/NAICS-511210_Software_Publishers-lightgrey?style=flat-square)
-![Patent](https://img.shields.io/badge/Patent-Pending_(Utility_19%2F426%2C028)-orange?style=flat-square)
+![Patent](https://img.shields.io/badge/Patent-4_Patents_Pending-orange?style=flat-square)
 ![Trademark](https://img.shields.io/badge/Trademark-MO§ES™_IC_042-purple?style=flat-square)
 ![Preprint](https://img.shields.io/badge/Preprint-Zenodo_DOI-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)
@@ -40,7 +40,7 @@ This company has two complementary faces — different investors will respond to
 
 ### Avenue 1: MO§ES™ — The Protocol (IP Play)
 
-A sovereign constitutional governance protocol for AI agents and signals. Enforces the **Conservation Law of Commitment** — a published, DOI-bearing conservation law with experimental evidence (0.94 stability with enforcement vs. 0.42 without). Three provisional patents filed. Trademark registered. Revenue model: licensing to enterprises, clouds, and chips.
+A sovereign constitutional governance protocol for AI agents and signals. Enforces the **Conservation Law of Commitment** — a published, DOI-bearing conservation law with experimental evidence (0.94 stability with enforcement vs. 0.42 without). 4 patents filed. Trademark registered. Revenue model: licensing to enterprises, clouds, and chips.
 
 **For investors who fund: infrastructure, IP, deep tech, protocol-layer plays.**
 

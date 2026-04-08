@@ -18,7 +18,7 @@ Up from 4.6 in March 2026. The jump was driven by backend (+6.5 points) and paym
 | **Backend / Infrastructure** | 1.0 | 7.5 | From zero to 221 endpoints, 12 route modules, Railway deployment, JWT auth, 78 tests |
 | **Agent Ecosystem** | 0.5 | 1.5 | Signup API, @signomy.xyz emails, field guide, onboarding docs — but zero registered agents |
 | **Payments / Economy** | 0.0 | 7.0 | Stripe Connect, destination charges, MPP micropayments, fee credit packs, webhooks, cashout, full economy engine |
-| **IP / Legal** | 8.5 | 8.5 | Unchanged — provisional + utility patent, trademark, preprint |
+| **IP / Legal** | 8.5 | 8.5 | Unchanged — 4 patents, trademark, preprint |
 | **Competitive Position** | 7.0 | 6.5 | Space got more crowded: t54 Labs ($5M), Geordie AI ($6.5M, RSAC winner), Microsoft open-source toolkit |
 | **Team / Execution** | 3.0 | 4.5 | Still solo founder, but output since March is substantial. AI-assisted build workflow is working. |
 

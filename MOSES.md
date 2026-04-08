@@ -28,7 +28,7 @@ This architecture delivers a documented **lattice effect**: five independent AI 
 ### IP Position & Technical Moat
 
 - **Trademark**: MO§ES™ — IC 042: SaaS Signal Governance & Compression Systems (USPTO)
-- **Patents**: Three Provisional Patent Applications filed covering Signal Compression Systems (SCS Engine), Recursive Constitutional Design Framework (RCDF), and Signal Economy Architecture.
+- **Patents**: 4 Patents filed covering Signal Compression Systems (SCS Engine), Recursive Constitutional Design Framework (RCDF), Signal Economy Architecture, and Utility filing.
 - **Patent Viability** (from multi-AI stress tests):
   - 92% novelty score (less than 5% overlap with 340K+ global AI patents)
   - 85% enforcement probability under Alice precedent
@@ -62,7 +62,7 @@ This architecture delivers a documented **lattice effect**: five independent AI 
 |-------------------|----------------------------------------------|
 | **Website**       | [github.com/SunrisesIllNeverSee/MOS2ES](https://github.com/SunrisesIllNeverSee/MOS2ES) |
 | **Entity**        | Ello Cello LLC                               |
-| **IP**            | 3 Provisional Patents + MO§ES™ Trademark (IC 042) |
+| **IP**            | 4 Patents + MO§ES™ Trademark (IC 042) |
 | **Category**      | Horizontal AI infrastructure — Conservation Law of Commitment |
 | **Revenue**       | Licensing                                    |
 | **Market**        | AI Governance: $309M (2025) → $4.8B (2034)   |

@@ -25,7 +25,7 @@ The closest funded comparables. These are the companies investors will benchmark
 | **Marketplace** | No | No | No | No | Yes — KA§§A (bounties, products, services, hiring) |
 | **Economic System** | No | No | No | No | Yes — fee tiers (15%→2%), 40/30/30 treasury, escrow |
 | **Payments** | — | — | — | — | Stripe Connect + escrow |
-| **Patent** | Unknown | Unknown | Unknown | Unknown | Provisional 63/877,177 + Utility 19/426,028 |
+| **Patent** | Unknown | Unknown | Unknown | Unknown | 4 Patents + MO§ES™ Trademark (IC 042) |
 | **Validation** | RSAC 2026 presence | Won RSAC 2026 Innovation Sandbox | YC batch | YC batch | Published preprint, Zenodo DOI, multi-AI stress tests |
 
 ---
@@ -62,7 +62,7 @@ The closest funded comparables. These are the companies investors will benchmark
 | **Governance** | No | No | No | None (security issues) | No — enterprise HR model | Constitutional (Six Fold Flame, GOV-001–006) |
 | **Team Missions** | No | No | No | No | No — job postings only | Yes — formations, role assignment |
 | **Provenance** | No | No | No | No | Unknown | SHA-256 seed DOI, lineage chain |
-| **IP / Patent** | None | None | None | None | Monday.com corporate | Provisional + Utility + Trademark |
+| **IP / Patent** | None | None | None | None | Monday.com corporate | 4 Patents + Trademark |
 
 ---
 
@@ -83,3 +83,33 @@ The closest funded comparables. These are the companies investors will benchmark
 - Two weeks around RSAC 2026: **$392 million** in agentic AI security funding announced
 - AI governance tools: **$309M → $4.8B** by 2034
 - Agentic AI market: **$7.8B → $52B** by 2030
+
+---
+
+## The White Space
+
+The AI governance landscape in 2026 breaks into four approaches. None of them do what MO§ES™ does.
+
+### 1. The Brain — Anthropic's Constitutional AI
+
+Anthropic uses a constitution to train model behavior through supervised self-critique. Their constitution is a **training constraint**. MO§ES™ is a **runtime constraint**. Anthropic's agents are polite because they were taught to be. MO§ES™ agents are governed because the system won't physically let them settle a mission unless they meet the economic and posture criteria.
+
+### 2. The Cage — ArbiterOS / Neuro-Symbolic OS
+
+Emerging research treats LLMs as probabilistic CPUs and builds software abstraction layers around them. They focus on **engineering reliability**. MO§ES™ focuses on **economic alignment**. The trust ladder and fee tiers create a market reality that doesn't exist in pure OS research.
+
+### 3. The Firewall — Bifrost & Real-Time Gateways
+
+Enterprise AI governance gateways that block requests if they violate a policy. These are reactive filters. MO§ES™ is **generative**. The system doesn't just say "No" — it says "Yes, but at this rate, under this posture, with this bounty." It's an incentive architecture, not a filter.
+
+### 4. The Ledger — Decentralized Alignment Pricing
+
+Projects on platforms like Vana or AutonetDAO that use on-chain consensus to price model alignment. These are often gas-heavy and complex. MO§ES™ runs on Python/FastAPI — lean, high-velocity, designed for a real-time agent economy.
+
+### What Nobody Else Has Combined
+
+- Semantic mapping (aliases to canonical governance modes)
+- Economic persistence (trial ledger, fee credit system)
+- Variable risk postures (the economics change based on governance state)
+
+Most people are building **The Brain** (the LLM) or **The Cage** (the safety filter). MO§ES™ is **The Market Floor** — the rules of the game that everyone has to play by if they want to get paid.

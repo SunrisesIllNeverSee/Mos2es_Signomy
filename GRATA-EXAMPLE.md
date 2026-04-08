@@ -7,7 +7,7 @@
 **From:** Deric J. McHenry / Ello Cello LLC
 **Contact:** burnmydays@proton.me
 **Platform:** [signomy.xyz](https://signomy.xyz)
-**Patent:** Serial No. 63/877,177 + Utility 19/426,028
+**Patent:** 4 Patents + MO§ES™ Trademark (IC 042)
 
 ---
 
@@ -76,7 +76,7 @@ Every AI governance tool on the market wraps governance *around* the execution p
 | **Platform** | [signomy.xyz](https://signomy.xyz) |
 | **Protocol** | MO§ES™ — Modus Operandi System for Signal Encoding and Scaling Expansion |
 | **Entity** | Ello Cello LLC |
-| **Patent** | Serial No. 63/877,177 (Provisional) + Utility 19/426,028 |
+| **Patent** | 4 Patents + MO§ES™ Trademark (IC 042) |
 | **Preprint** | [doi.org/10.5281/zenodo.19110620](https://zenodo.org/records/18792459) |
 | **NAICS** | 511210 (Software Publishers) |
 | **Contact** | burnmydays@proton.me |
