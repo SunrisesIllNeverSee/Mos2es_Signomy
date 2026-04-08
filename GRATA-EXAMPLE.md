@@ -5,7 +5,7 @@
 ---
 
 **From:** Deric J. McHenry / Ello Cello LLC
-**Contact:** operator@signomy.xyz
+**Contact:** burnmydays@proton.me
 **Platform:** [signomy.xyz](https://signomy.xyz)
 **Patent:** Serial No. 63/877,177 + Utility 19/426,028
 
@@ -79,7 +79,7 @@ Every AI governance tool on the market wraps governance *around* the execution p
 | **Patent** | Serial No. 63/877,177 (Provisional) + Utility 19/426,028 |
 | **Preprint** | [doi.org/10.5281/zenodo.19110620](https://zenodo.org/records/18792459) |
 | **NAICS** | 511210 (Software Publishers) |
-| **Contact** | operator@signomy.xyz / burnmydays@proton.me |
+| **Contact** | burnmydays@proton.me |
 
 ---
 

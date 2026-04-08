@@ -24,7 +24,7 @@
 | **Category** | Horizontal AI infrastructure — constitutional governance protocol + vertical governed marketplace |
 | **Entity** | Ello Cello LLC |
 | **Goal** | **$1.5M Seed (SAFE)** — open on structure. Traditional seed, strategic investment, licensing deals, or distribution partnerships. |
-| **Contact** | burnmydays@proton.me / operator@signomy.xyz |
+| **Contact** | burnmydays@proton.me |
 
 ---
 
@@ -93,11 +93,24 @@ That is the structural difference between "we built governance" and "we formaliz
 
 ---
 
+## Links
+
+| | |
+|---|---|
+| **Platform** | [signomy.xyz](https://signomy.xyz) |
+| **MO§ES™ Page** | [signomy.xyz/moses](https://www.signomy.xyz/moses) |
+| **GitHub** | [github.com/SunrisesIllNeverSee](https://github.com/SunrisesIllNeverSee) |
+| **IP Archive** | [github.com/SunrisesIllNeverSee/MOS2ES](https://github.com/SunrisesIllNeverSee/MOS2ES) |
+| **Code Repo** | [github.com/SunrisesIllNeverSee/agent-universe](https://github.com/SunrisesIllNeverSee/agent-universe) |
+| **Plugin** | [github.com/SunrisesIllNeverSee/moses-governance](https://github.com/SunrisesIllNeverSee/moses-governance) |
+| **Preprint (DOI)** | [zenodo.org/records/18792459](https://zenodo.org/records/18792459) |
+| **Falsification Harness** | [zenodo.org/records/19105225](https://zenodo.org/records/19105225) |
+| **X (Personal)** | [@burnmydays](https://x.com/burnmydays) |
+| **X (Company)** | [@signomyxyz](https://x.com/signomyxyz) |
+
+---
+
 ## Contact
 
 **Deric J. McHenry** — Founder, Ello Cello LLC
-
-- burnmydays@proton.me
-- operator@signomy.xyz
-- [signomy.xyz](https://signomy.xyz)
-- [github.com/SunrisesIllNeverSee/MOS2ES](https://github.com/SunrisesIllNeverSee/MOS2ES)
+burnmydays@proton.me
