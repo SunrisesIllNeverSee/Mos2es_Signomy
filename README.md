@@ -89,6 +89,10 @@ The seven-ring sovereign architecture separates what's protected from what's acq
 
 The result is a company that doesn't sell one thing. It sells governed embodiments of a sovereign protocol — each one a licensable, deployable, revenue-generating instance that strengthens the network it belongs to.
 
+### See It Applied
+
+> [GRATA-EXAMPLE.md](GRATA-EXAMPLE.md) — MO§ES™ applied to a real private-market intelligence workflow.
+
 ---
 
 ## Key Numbers
