@@ -95,18 +95,41 @@ That is the structural difference between "we built governance" and "we formaliz
 
 ## Links
 
+**Websites**
+
 | | |
 |---|---|
 | **Platform** | [signomy.xyz](https://signomy.xyz) |
-| **MO§ES™ Page** | [signomy.xyz/moses](https://www.signomy.xyz/moses) |
-| **GitHub** | [github.com/SunrisesIllNeverSee](https://github.com/SunrisesIllNeverSee) |
-| **IP Archive** | [github.com/SunrisesIllNeverSee/MOS2ES](https://github.com/SunrisesIllNeverSee/MOS2ES) |
-| **Code Repo** | [github.com/SunrisesIllNeverSee/agent-universe](https://github.com/SunrisesIllNeverSee/agent-universe) |
-| **Plugin** | [github.com/SunrisesIllNeverSee/moses-governance](https://github.com/SunrisesIllNeverSee/moses-governance) |
-| **Preprint (DOI)** | [zenodo.org/records/18792459](https://zenodo.org/records/18792459) |
-| **Falsification Harness** | [zenodo.org/records/19105225](https://zenodo.org/records/19105225) |
-| **X (Personal)** | [@burnmydays](https://x.com/burnmydays) |
-| **X (Company)** | [@signomyxyz](https://x.com/signomyxyz) |
+| **MO§ES™** | [signomy.xyz/moses](https://www.signomy.xyz/moses) |
+| **MOS2ES.com** | [mos2es.com](https://mos2es.com) |
+| **COMMAND** | [mos2es.io](https://mos2es.io) |
+
+**GitHub** — [github.com/SunrisesIllNeverSee](https://github.com/SunrisesIllNeverSee)
+
+| Repo | What It Is |
+|------|-----------|
+| [MOS2ES](https://github.com/SunrisesIllNeverSee/MOS2ES) | IP archive — funding-stage showcase |
+| [agent-universe](https://github.com/SunrisesIllNeverSee/agent-universe) | CIVITAE platform code (221 endpoints) |
+| [commitment-conservation](https://github.com/SunrisesIllNeverSee/commitment-conservation) | Conservation Law falsification harness (Python) |
+| [moses-governance](https://github.com/SunrisesIllNeverSee/moses-governance) | MO§ES™ plugin for Claude Code |
+| [moses-governance-cowork](https://github.com/SunrisesIllNeverSee/moses-governance-cowork) | MO§ES™ for Claude.ai Chat & Cowork |
+| [moses-claw-gov](https://github.com/SunrisesIllNeverSee/moses-claw-gov) | Constitutional governance harness for OpenClaw |
+| [command-engine](https://github.com/SunrisesIllNeverSee/command-engine) | Open-source governance runtime |
+| [Mos2es_Signomy](https://github.com/SunrisesIllNeverSee/Mos2es_Signomy) | Signomy web assets |
+
+**Academic & Research**
+
+| | |
+|---|---|
+| **Preprint (DOI)** | [Conservation Law for Commitment — Zenodo](https://zenodo.org/records/18792459) |
+| **Falsification Harness** | [Zenodo archive](https://zenodo.org/records/19105225) |
+| **ORCID** | [0009-0002-9904-5390](https://orcid.org/0009-0002-9904-5390) |
+
+**Social**
+
+| | |
+|---|---|
+| **X** | [@burnmydays](https://x.com/burnmydays) |
 
 ---
 
