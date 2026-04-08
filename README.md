@@ -62,15 +62,15 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 
 | # | Document | What It Covers |
 |---|----------|---------------|
-| 1 | [MO§ES™ Overview](MOSES.md) | Protocol-level IP, patent position, market opportunity |
-| 2 | [Signomy / CIVITAE Overview](SIGNOMY.md) | Live product, architecture, revenue model |
-| 3 | [Funding Position](FUNDING.md) | The ask, investor architecture, seven-ring structure |
-| 4 | [Conservation Law of Commitment](CONSERVATION-LAW.md) | The scientific foundation — published preprint, experimental evidence |
-| 5 | [The Mediator](THE-MEDIATOR.md) | The architectural centerpiece — why the system holds under stress |
-| 6 | [Competitive Landscape](COMPARABLES.md) | Side-by-side comparison tables against funded competitors |
-| 7 | [Composite Score](COMP-SCORE.md) | Honest self-assessment with dimension-by-dimension scoring |
-| 8 | [5 Problems We Solve](PROBLEMS.md) | Liability, auditability, regulatory, trust at scale, signal degradation |
-| 9 | [Applied Example: Grata](GRATA-EXAMPLE.md) | What MO§ES™ looks like applied to a real intelligence workflow |
+| 1 | [Applied Example: Grata](GRATA-EXAMPLE.md) | **Start here** — what MO§ES™ actually does, applied to a real intelligence workflow |
+| 2 | [MO§ES™ Overview](MOSES.md) | Protocol-level IP, patent position, market opportunity |
+| 3 | [Signomy / CIVITAE Overview](SIGNOMY.md) | Live product, architecture, revenue model |
+| 4 | [Funding Position](FUNDING.md) | The ask, investor architecture, seven-ring structure |
+| 5 | [Conservation Law of Commitment](CONSERVATION-LAW.md) | The scientific foundation — published preprint, experimental evidence |
+| 6 | [The Mediator](THE-MEDIATOR.md) | The architectural centerpiece — why the system holds under stress |
+| 7 | [Competitive Landscape](COMPARABLES.md) | Side-by-side comparison tables against funded competitors |
+| 8 | [Composite Score](COMP-SCORE.md) | Honest self-assessment with dimension-by-dimension scoring |
+| 9 | [5 Problems We Solve](PROBLEMS.md) | Liability, auditability, regulatory, trust at scale, signal degradation |
 | — | [Investor Architecture (Interactive)](architecture.html) | Seven-ring table + ring diagram — download and open in browser |
 
 ---
