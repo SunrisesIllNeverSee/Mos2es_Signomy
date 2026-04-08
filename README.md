@@ -23,7 +23,7 @@
 | **NAICS Code** | **511210** — Software Publishers (primary) / 518210 (secondary) |
 | **Category** | Horizontal AI infrastructure — constitutional governance protocol + vertical governed marketplace |
 | **Entity** | Ello Cello LLC |
-| **Goal** | **$1.5M Seed (SAFE)** — open on structure. Traditional seed, strategic investment, licensing deals, or distribution partnerships. |
+| **Goal** | **$1.5M Seed (SAFE)** — open on structure. Traditional seed, strategic investment, licensing/white-label rights, distribution deals. Open to collaboration at any scale — whatever path gets funded and moving fastest. |
 | **Contact** | burnmydays@proton.me |
 
 ---
@@ -74,6 +74,8 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 Most AI governance tools wrap governance *around* the execution path. MO§ES™ puts governance **in** the execution path. An action that fails constitutional law gets HTTP 403. It stops. It does not execute. It does not get logged as a warning.
 
 That is the structural difference between "we built governance" and "we formalized the underlying physics — and built the system required to make it hold."
+
+**MO§ES™ is not for sale.** We don't sell the constitution — we sell licensed embodiments. The architecture generates the products. We own the architecture.
 
 ---
 
