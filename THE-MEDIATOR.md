@@ -17,9 +17,9 @@ The constitution defines the law but never executes. The engine executes but has
 
 ### The Design Choice That Matters
 
-Most systems put enforcement and execution in the same layer. MO§ES™ splits them. The engine compresses and processes; the Mediator verifies and adjudicates. Because the Mediator is air-gapped (Layer 2, offline/hardware trust), a software compromise of the engine cannot reach it.
+Most systems put enforcement and execution in the same layer. MO§ES™ splits them. The engine compresses and processes; the Mediator verifies and adjudicates. Today, the Mediator enforces governance at the HTTP layer — an action that fails constitutional law returns HTTP 403 and does not execute. The enforcement is live and blocking.
 
-This is the same trust architecture as HSMs in cryptographic systems or TPMs in secure boot chains — the verification layer is physically separated from the execution layer. It is a proven pattern applied to signal governance for the first time.
+This is the same trust architecture as HSMs in cryptographic systems or TPMs in secure boot chains — the verification layer is separated from the execution layer. It is a proven pattern applied to signal governance for the first time. The roadmap extends this to hardware air-gapping (offline/dedicated trust hardware), which elevates the Mediator from software enforcement to physical isolation — the same progression secure boot chains followed from firmware to TPM.
 
 ### Why It's the Lattice's Load-Bearing Wall
 
@@ -57,12 +57,10 @@ Constitution → Judicial System (Mediator) → Executive (Engine) → Public (I
 
 The judiciary does not write law and does not execute policy. It interprets and enforces.
 
-### The Specification Is the First Implementation
+### Validated by Five Independent AI Systems
 
-The Mediator has not been built in hardware yet — and the system already works. Five independent AI systems (Grok, DeepSeek, Gemini, GPT, Claude) analyzed the architecture, stress-tested it, and converged on the same viability range — all against a component that exists only as a specification.
+Five independent AI systems (Grok, DeepSeek, Gemini, GPT, Claude) analyzed the architecture, stress-tested it, and converged on the same viability range. The 1.95x lattice effect, the 78–85% viability, the failure isolation — these results came from the Mediator's role in the design. The specification is so internally coherent that its architectural effects are measurable before dedicated hardware exists.
 
-The 1.95x lattice effect, the 78–85% viability, the failure isolation — those results came from evaluating the design, not a deployment. The description is the first implementation. The specification preceded instantiation. The coherence of the specification is what made the results possible.
-
-When the Mediator is built in hardware, it will not create new properties — it will instantiate properties that already exist in the design.
+The hardware air-gap is the scaling step. The enforcement is already running.
 
 It is named in the patent title: *"Signal Compression System Engine and Mediator (SCS Engine)."*

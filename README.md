@@ -23,7 +23,6 @@
 | **NAICS Code** | **511210** — Software Publishers (primary) / 518210 (secondary) |
 | **Category** | Horizontal AI infrastructure — constitutional governance protocol + vertical governed marketplace |
 | **Entity** | Ello Cello LLC |
-| **Contact** | burnmydays@proton.me |
 
 ### Where We Are & What We're Looking For
 
