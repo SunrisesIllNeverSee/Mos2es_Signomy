@@ -72,7 +72,7 @@ The seven-ring sovereign architecture defines what's protected, what's open to o
 
 The architecture produces the products. Owning the architecture means owning the source of every future product, every future license, every future revenue stream that the system generates.
 
-*See [architecture.html](architecture.html) for the interactive table and ring diagram.*
+*See the [interactive investor architecture](https://sunrisesillneversee.github.io/Mos2es_Signomy/architecture.html) for the seven-ring table and ring diagram.*
 
 ### Contact
 

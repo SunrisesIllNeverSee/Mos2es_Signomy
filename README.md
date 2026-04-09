@@ -72,7 +72,7 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 | 7 | [Competitive Landscape](COMPARABLES.md) | Side-by-side comparison tables against funded competitors |
 | 8 | [Composite Score](COMP-SCORE.md) | Honest self-assessment with dimension-by-dimension scoring |
 | 9 | [5 Problems We Solve](PROBLEMS.md) | Liability, auditability, regulatory, trust at scale, signal degradation |
-| — | [Investor Architecture (Interactive)](architecture.html) | Seven-ring table + ring diagram — download and open in browser |
+| — | [Investor Architecture (Interactive)](https://sunrisesillneversee.github.io/Mos2es_Signomy/architecture.html) | Seven-ring table + ring diagram — live in browser |
 
 ---
 
