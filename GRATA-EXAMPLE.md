@@ -1,18 +1,18 @@
 # MO§ES™ Applied — Private Market Intelligence
 
-**An observed example, not a pitch. Grata is the canvas — here's what MO§ES™ looks like applied to a real workflow.**
+**It's easier to show what we do than explain it. Here's MO§ES™ applied to Grata's workflow.**
 
 ---
 
 ## The Context
 
-Grata operates in private-market intelligence, competing in a space where trust has historically been established through human curation — PitchBook, CB Insights, manually verified datasets. Their AI-first approach — Blueflame-powered agentic search, automated enrichment, deal scoring, memo generation — creates a fundamentally different trust model.
+Grata operates in private-market intelligence, competing in a space where trust has historically been established through human curation — PitchBook, CB Insights, manually verified datasets. Those platforms built credibility on the fact that a human touched the data. The profiles were reviewed. The sources were checked. Trust was a function of labor.
 
-The workflow looks like this: **search → enrich → score → produce memo**. Each step passes a signal through an AI transformation before it reaches the end user. Each transformation is an opportunity for signal to degrade, for provenance to disappear, and for trust to become harder to verify. A company profile that enters the pipeline as investment-grade can exit as confidently wrong, with no record of what changed along the way.
+Grata's AI-first approach — Blueflame-powered agentic search, automated enrichment, deal scoring, memo generation — replaces that labor with speed and scale. But it also removes the mechanism that trust was built on. When the pipeline is search → enrich → score → produce memo, and every step is an AI transformation, the question becomes: what replaces human curation as the source of trust?
 
-This is what MO§ES™ was designed for.
+That gap — between the old trust model (human curation) and the new one (AI-first) — is where governance infrastructure lives. Each transformation is an opportunity for signal to degrade, for provenance to disappear, and for trust to become harder to verify. A company profile that enters the pipeline as investment-grade can exit as confidently wrong, with no record of what changed along the way.
 
-The workflow surfaces questions that apply broadly across AI-driven intelligence:
+This is what MO§ES™ was designed for. The workflow surfaces questions that apply broadly across AI-driven intelligence:
 
 1. **Liability** — when AI-generated intelligence informs investment decisions, the question of responsibility surfaces
 2. **Auditability** — multi-step agent pipelines produce outputs without visible reasoning chains
@@ -41,6 +41,14 @@ Every AI governance tool on the market wraps governance *around* the execution p
 
 That is the difference between advisory governance and constitutional governance.
 
+MO§ES™ is the only governance infrastructure backed by its own published conservation law — the Conservation Law of Commitment. Commitment is conserved under transformation when enforcement holds. That law is what makes constitutional governance possible, not as a policy choice, but as a mathematical property of the system.
+
 ---
 
-This document shows MO§ES™ applied to a real workflow. The governance layer is invisible to end users — but the provenance, accountability, and compliance it provides are not.
+## Try It
+
+This is one workflow. MO§ES™ applies to any pipeline where AI transforms, delegates, or scales a commitment.
+
+If you have a real or hypothetical problem — a workflow, a compliance question, a trust gap — send it over. We'll show you what the system does with it.
+
+**burnmydays@proton.me**
