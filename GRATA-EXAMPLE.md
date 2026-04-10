@@ -4,6 +4,16 @@
 
 ---
 
+> **For:** A PM or IC engineer at Grata who works in or adjacent to the Blueflame pipeline.
+>
+> **The ask is not "is this true."** The ask is: **is this useful?** You don't need to vet the conservation law or validate the patents. The useful question is simpler:
+>
+> *How long would it take your team to trace a Blueflame-generated memo back to its source data today — and produce that chain for a client or auditor?*
+>
+> If the answer is "it isn't possible" or "more than an hour," that's the exact gap MO§ES™ fills. Everything below maps directly to that one metric.
+
+---
+
 ## The Context
 
 Grata operates in private-market intelligence, competing in a space where trust has historically been established through human curation — PitchBook, CB Insights, manually verified datasets. Those platforms built credibility on the fact that a human touched the data. The profiles were reviewed. The sources were checked. Trust was a function of labor.
@@ -45,10 +55,22 @@ MO§ES™ is the only governance infrastructure backed by its own published cons
 
 ---
 
+## The One Metric Worth Evaluating
+
+If you work on the Blueflame pipeline, there is one test that makes everything else concrete:
+
+**Pick any memo your system has generated. Can you produce, on demand, a full lineage trace — every transformation from raw source data to final output, with a content hash at each step — in under 60 seconds?**
+
+If yes: you already have what MO§ES™ provides at that layer. If no — or if the answer is "we'd have to reconstruct it manually" — that's the workflow this is designed for.
+
+The EU AI Act enforcement timeline (August 2026) makes this a compliance question, not just a product question. The gap between "we could reconstruct it" and "it's cryptographically auditable on demand" is where liability lives.
+
+---
+
 ## Try It
 
 This is one workflow. MO§ES™ applies to any pipeline where AI transforms, delegates, or scales a commitment.
 
-If you have a real or hypothetical problem — a workflow, a compliance question, a trust gap — send it over. We'll show you what the system does with it.
+If you want to test the specific metric above against a real Grata workflow — or if there's a trust gap, a compliance concern, or a client question you haven't found a clean answer to — send it over. We'll map what the system does with it.
 
 **burnmydays@proton.me**
