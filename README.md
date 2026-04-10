@@ -16,6 +16,8 @@
 
 ---
 
+> **Scope**: This repo contains investor-facing documentation and the interactive architecture page. Platform code lives in [agent-universe](https://github.com/SunrisesIllNeverSee/agent-universe). Protocol runtime lives in [moses-governance](https://github.com/SunrisesIllNeverSee/moses-governance). Conservation Law experiments live in [commitment-conservation](https://github.com/SunrisesIllNeverSee/commitment-conservation).
+
 ## Quick Answers
 
 | Question | Answer |
