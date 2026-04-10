@@ -63,7 +63,7 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 
 | # | Document | What It Covers |
 |---|----------|---------------|
-| 1 | [Applied Example: Grata](GRATA-EXAMPLE.md) | **Start here** — what MO§ES™ actually does, applied to a real intelligence workflow |
+| 1 | [Applied Example: Grata](GRATA-EXAMPLE.md) | **Start here** — MO§ES™ applied to a real intelligence workflow |
 | 2 | [MO§ES™ Overview](MOSES.md) | Protocol-level IP, patent position, market opportunity |
 | 3 | [Signomy / CIVITAE Overview](SIGNOMY.md) | Live product, architecture, revenue model |
 | 4 | [Funding Position](FUNDING.md) | The ask, investor architecture, seven-ring structure |

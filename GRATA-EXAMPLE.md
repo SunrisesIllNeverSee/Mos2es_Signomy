@@ -4,6 +4,18 @@
 
 ---
 
+## The Quick Check
+
+> There's no need to vet the conservation law or validate the patents. The useful questions are simpler:
+>
+> *How long does it take to trace an AI-generated output back through every transformation, every handoff, every decision point, all movement from its source, and produce that chain for a client or auditor?*
+>
+> *Can the system prove what an agent did to a signal, not just where it started, but everywhere it went?*
+>
+> If the answer is "it isn't possible" or "more than an hour," that's the space MO§ES™ operates in. The lineage trace is one test. The governance score, the compliance export, the provenance chain. Each runs the same way.
+
+---
+
 ## The Context
 
 Grata operates in private-market intelligence, competing in a space where trust has historically been established through human curation — PitchBook, CB Insights, manually verified datasets. Those platforms built credibility on the fact that a human touched the data. The profiles were reviewed. The sources were checked. Trust was a function of labor.
@@ -45,10 +57,18 @@ MO§ES™ is the only governance infrastructure backed by its own published cons
 
 ---
 
+## The Compliance Frame
+
+EU AI Act enforcement begins August 2026. For any system where AI transforms, delegates, or scales intelligence in high-risk decision domains, the regulatory question is no longer theoretical.
+
+The gap between "we could reconstruct it manually" and "it's cryptographically auditable on demand" is where liability lives. Every transformation in a governed pipeline produces a Seed — SHA-256 content hash, permanent DOI, parent lineage. The chain is tamper-evident and exportable. Audit-ready is not a feature. It's a constitutional property of the system.
+
+---
+
 ## Try It
 
 This is one workflow. MO§ES™ applies to any pipeline where AI transforms, delegates, or scales a commitment.
 
-If you have a real or hypothetical problem — a workflow, a compliance question, a trust gap — send it over. We'll show you what the system does with it.
+We enjoy mapping these out. If there's a workflow, a compliance question, or a trust gap worth looking at, we're happy to walk through what the system does with it.
 
 **burnmydays@proton.me**
