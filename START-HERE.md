@@ -4,6 +4,15 @@ This repo is a narrative and architecture artifact for MO§ES™ / CIVITAE. Diff
 
 ---
 
+**If you're here from The Pitch / Deel event (May 2026):**
+
+1. [ONE-PAGER.md](ONE-PAGER.md) — everything on one page
+2. [Live Demo](https://sunrisesillneversee.github.io/KASSA/demo/commitment_kernel_demo_v7.html) — run it yourself
+3. [GRATA-EXAMPLE.md](GRATA-EXAMPLE.md) — see it applied to a real workflow
+4. [FUNDING.md](FUNDING.md) — the ask and the structure
+
+---
+
 **If you're here because of a specific workflow or trust gap:**
 
 Start with [GRATA-EXAMPLE.md](GRATA-EXAMPLE.md). It shows the system applied to a real pipeline. If your situation maps to something in there, [burnmydays@proton.me](mailto:burnmydays@proton.me).
