@@ -40,7 +40,7 @@ Start with [GRATA-EXAMPLE.md](GRATA-EXAMPLE.md). It shows the system applied to 
 
 1. [fundscore README](fundscore/README.md) — the deterministic validator for repo integrity.
 2. [KASSA / commitment-conservation](https://github.com/SunrisesIllNeverSee/commitment-conservation) — the raw experimental records (EXP-001..007) and falsifiability harness.
-3. [Live Latency Demo (v6)](https://sunrisesillneversee.github.io/KASSA/demo/commitment_kernel_demo_v6.html) — interactive simulation of the S1/S2/S3 architecture.
+3. [Live Latency Demo (v7)](https://sunrisesillneversee.github.io/KASSA/demo/commitment_kernel_demo_v7.html) — interactive simulation of the S1/S2/S3 architecture. Loads instantly in cached mode; optional live execution with your own API key.
 
 ---
 
