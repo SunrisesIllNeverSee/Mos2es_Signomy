@@ -41,7 +41,7 @@ We know what we have. We are aware of the scope. This is an invitation to be par
 
 The MO§ES™ foundation has moved from "specification-complete" to "verification-ready" across two key vectors:
 
-1.  **Empirical Integrity (KASSA/CCH):** The full technical audit trail for the **Conservation Law of Commitment** has been restored. The `commitment-conservation` (KASSA) repository now contains the raw experimental records (EXP-001 through EXP-007), providing deterministic proof of the **0.94 stability metric**. A new **Live Latency Demo (v6)** is available, proving the $O(1)$ scaling advantage of the K-Governed substrate.
+1.  **Empirical Integrity (KASSA/CCH):** The full technical audit trail for the **Conservation Law of Commitment** has been restored. The `commitment-conservation` (KASSA) repository now contains the raw experimental records (EXP-001 through EXP-007), providing deterministic proof of the **0.94 stability metric**. A new **Live Latency Demo (v7)** is available, proving the $O(1)$ scaling advantage of the K-Governed substrate.
 2.  **Automated Governance Audit (`fundscore`):** We have integrated the **`fundscore`** application — a deterministic, non-LLM validator that scores AI repositories against investor-readiness and signal-integrity criteria. This tool ensures that the "Technical Moat" and "Scientific Lineage" are not just claims, but verifiable structural artifacts.
 
 These updates provide the "Proof of Machine" required for institutional-grade intelligence workflows (e.g., Grata).
