@@ -143,6 +143,7 @@ The result is a company that doesn't sell one thing. It sells governed embodimen
 |------|-----------|
 | [MOS2ES](https://github.com/SunrisesIllNeverSee/MOS2ES) | IP archive — funding-stage showcase |
 | [agent-universe](https://github.com/SunrisesIllNeverSee/agent-universe) | CIVITAE platform code (221 endpoints) |
+| [KASSA](https://github.com/SunrisesIllNeverSee/KASSA) | K-governed voice architecture and public commitment harness |
 | [commitment-conservation](https://github.com/SunrisesIllNeverSee/commitment-conservation) | Conservation Law falsification harness (Python) |
 | [moses-governance](https://github.com/SunrisesIllNeverSee/moses-governance) | MO§ES™ plugin for Claude Code |
 | [moses-governance-cowork](https://github.com/SunrisesIllNeverSee/moses-governance-cowork) | MO§ES™ for Claude.ai Chat & Cowork |
