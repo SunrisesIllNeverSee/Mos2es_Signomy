@@ -3,3 +3,6 @@
 .claude/
 .playwright-mcp/
 *.png
+
+# Local Netlify folder
+.netlify
