@@ -23,6 +23,8 @@
 #   security: 3
 #   contact-team: 5
 #   audience-customer: 6
+#   architecture-diagram: 5
+#   governance-proof: 6
 
 # Mark specific checks as required (fail status if they don't pass)
 # required:

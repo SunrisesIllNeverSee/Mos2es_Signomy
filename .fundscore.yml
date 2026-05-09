@@ -1,0 +1,12 @@
+# .fundscore.yml — MO§ES™ Signomy repo configuration
+
+lens:
+  round: pre-seed
+  teamMode: solo
+
+required:
+  readme-exists: true
+
+thresholds:
+  warn: 5
+  fail: 3

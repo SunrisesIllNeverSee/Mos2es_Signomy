@@ -21,7 +21,7 @@ The tool also auto-infers an **Investor Lens** (funding round, check size, team 
 
 ### Coverage Score
 
-Twelve checks, each with a weight:
+Fourteen checks, each with a weight:
 
 | ID | Check | Default Weight |
 |----|-------|---------------|
@@ -37,12 +37,14 @@ Twelve checks, each with a weight:
 | `security` | SECURITY.md or dependency scanning config | 3 |
 | `contact-team` | Team or contact info mentioned | 5 |
 | `audience-customer` | Audience / target customer identified | 6 |
+| `architecture-diagram` | Architecture diagram or interactive showcase | 5 |
+| `governance-proof` | Governance or constitutional framework present | 6 |
 
 Final Coverage Score = (sum of weights of passing checks) / (sum of all weights) × 10.
 
 ### Quality Score
 
-Five heuristic dimensions (no external calls):
+Six heuristic dimensions (no external calls):
 
 | Dimension | Description | Weight |
 |-----------|-------------|--------|
@@ -51,6 +53,7 @@ Five heuristic dimensions (no external calls):
 | **Structure** | Headings, lists, code blocks in README | 2 |
 | **Length** | README length (penalises sparse or padded) | 1 |
 | **Consistency** | Checks for contradicting numbers across docs | 1 |
+| **Proof** | External links, citations, social proof | 2 |
 
 ### Overall Score
 
@@ -144,7 +147,7 @@ fundscore /path/to/repo
 ```
 fundscore ✅ PASS
   Overall : 7.4/10
-  Coverage: 8.3/10  (10/12 checks passed)
+  Coverage: 8.3/10  (12/14 checks passed)
   Quality : 6.0/10
   Lens    : seed / solo / NAICS 511210
 
