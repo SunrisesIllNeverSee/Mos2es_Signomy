@@ -18,11 +18,9 @@
 
 ## The Context
 
-Grata operates in private-market intelligence, competing in a space where trust has historically been established through human curation — PitchBook, CB Insights, manually verified datasets. Those platforms built credibility on the fact that a human touched the data. The profiles were reviewed. The sources were checked. Trust was a function of labor.
+Grata runs a multi-step AI pipeline for private-market intelligence — agentic search, automated enrichment, deal scoring, memo generation. Each step is an AI transformation. When the full chain is automated, the question becomes: what mechanism verifies that the output still reflects the original signal?
 
-Grata's AI-first approach — Blueflame-powered agentic search, automated enrichment, deal scoring, memo generation — replaces that labor with speed and scale. But it also removes the mechanism that trust was built on. When the pipeline is search → enrich → score → produce memo, and every step is an AI transformation, the question becomes: what replaces human curation as the source of trust?
-
-That gap — between the old trust model (human curation) and the new one (AI-first) — is where governance infrastructure lives. Each transformation is an opportunity for signal to degrade, for provenance to disappear, and for trust to become harder to verify. A company profile that enters the pipeline as investment-grade can exit as confidently wrong, with no record of what changed along the way.
+That question applies to any AI-first intelligence workflow. Each transformation is an opportunity for signal to degrade, for provenance to disappear, and for trust to become harder to verify. A company profile that enters the pipeline as investment-grade can exit as confidently wrong, with no record of what changed along the way.
 
 This is what MO§ES™ was designed for. The workflow surfaces questions that apply broadly across AI-driven intelligence:
 
