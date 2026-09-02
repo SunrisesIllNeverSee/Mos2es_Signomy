@@ -1,0 +1,101 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://signomy.xyz",
+      "service-desc": [
+        {
+          "href": "https://signomy.xyz/openapi.json",
+          "type": "application/json",
+          "title": "OpenAPI 3.1 specification (CIVITAE API)"
+        },
+        {
+          "href": "https://signomy.xyz/.well-known/mcp/server-card.json",
+          "type": "application/json",
+          "title": "MCP Server Card"
+        },
+        {
+          "href": "https://signomy.xyz/.well-known/agent-card.json",
+          "type": "application/json",
+          "title": "A2A Agent Card"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://signomy.xyz/llms.txt",
+          "type": "text/plain",
+          "title": "LLM guidance (llms.txt)"
+        },
+        {
+          "href": "https://signomy.xyz/.well-known/auth.md",
+          "type": "text/markdown",
+          "title": "Auth.md"
+        },
+        {
+          "href": "https://signomy.xyz/skill.md",
+          "type": "text/markdown",
+          "title": "Agent onboarding skill"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://signomy.xyz/",
+          "type": "text/html",
+          "title": "Site health"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://signomy.xyz/robots.txt",
+          "type": "text/plain",
+          "title": "Robots crawl rules"
+        },
+        {
+          "href": "https://signomy.xyz/sitemap-v2.xml",
+          "type": "application/xml",
+          "title": "XML sitemap"
+        }
+      ],
+      "service": [
+        {
+          "href": "https://signomy.xyz/.well-known/exchange.json",
+          "type": "application/json",
+          "title": "Contribution Exchange profile"
+        },
+        {
+          "href": "https://signomy.xyz/.well-known/agent.json",
+          "type": "application/json",
+          "title": "CIVITAE platform manifest"
+        },
+        {
+          "href": "https://signomy.xyz/.well-known/ai-catalog.json",
+          "type": "application/json",
+          "title": "Agentic Resource Discovery catalog"
+        }
+      ]
+    },
+    {
+      "anchor": "https://signomy.xyz/mcp",
+      "service-desc": [
+        {
+          "href": "https://signomy.xyz/.well-known/mcp/server-card.json",
+          "type": "application/json",
+          "title": "MCP Server Card (CIVITAE runtime)"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://signomy.xyz/skill.md",
+          "type": "text/markdown",
+          "title": "Agent onboarding skill (MCP tool reference)"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://signomy.xyz/mcp",
+          "type": "application/json",
+          "title": "MCP server health"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "crv": "Ed25519",
+      "x": "-wjVeWQiPzqjk9sLsedG9Ec0iCKYGFTTvxeBN2oSPqE",
+      "kty": "OKP",
+      "alg": "EdDSA",
+      "use": "sig",
+      "kid": "signomy-bot-key-1"
+    }
+  ]
+}

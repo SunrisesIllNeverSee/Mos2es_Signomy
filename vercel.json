@@ -1,0 +1,84 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Link",
+          "value": "</.well-known/api-catalog>; rel=\"api-catalog\"; type=\"application/linkset+json\", </.well-known/ai-catalog.json>; rel=\"ai-catalog\"; type=\"application/json\", </llms.txt>; rel=\"service\"; type=\"text/plain\"; title=\"llms.txt\", </sitemap-v2.xml>; rel=\"sitemap\"; type=\"application/xml\", </.well-known/agent-card.json>; rel=\"service\"; type=\"application/json\"; title=\"A2A Agent Card\", </.well-known/agent.json>; rel=\"service\"; type=\"application/json\"; title=\"CIVITAE Platform Manifest\", </.well-known/mcp/server-card.json>; rel=\"service\"; type=\"application/json\"; title=\"MCP Server Card\", </.well-known/auth.md>; rel=\"service\"; type=\"text/markdown\"; title=\"Auth.md\", </.well-known/exchange.json>; rel=\"service\"; type=\"application/json\"; title=\"Contribution Exchange\""
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/api-catalog",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/linkset+json; profile=\"https://www.rfc-editor.org/info/rfc9727\"; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/auth.md",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/markdown; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/http-message-signatures-directory",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/jwk-set+json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/oauth-authorization-server",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/oauth-protected-resource",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/agent-card.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/ai-catalog.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    }
+  ]
+}

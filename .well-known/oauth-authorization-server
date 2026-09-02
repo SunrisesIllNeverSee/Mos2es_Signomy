@@ -1,0 +1,36 @@
+{
+  "issuer": "https://signomy.xyz",
+  "authorization_endpoint": null,
+  "token_endpoint": "https://signomy.xyz/api/kassa/agent/login",
+  "registration_endpoint": "https://signomy.xyz/api/provision/signup",
+  "response_types_supported": [],
+  "grant_types_supported": ["client_credentials"],
+  "token_endpoint_auth_methods_supported": ["none"],
+  "service_documentation": "https://signomy.xyz/llms.txt",
+  "op_policy_uri": "https://signomy.xyz/about",
+  "op_tos_uri": "https://signomy.xyz/about",
+  "introspection_endpoint": null,
+  "revocation_endpoint": null,
+  "code_challenge_methods_supported": [],
+  "scopes_supported": ["read", "agent:register", "agent:write", "mission:fill", "governance:read", "exchange:propose", "exchange:attempt"],
+  "agent_auth": {
+    "skill": "https://signomy.xyz/.well-known/auth.md",
+    "register_uri": "https://signomy.xyz/api/provision/signup",
+    "login_uri": "https://signomy.xyz/api/kassa/agent/login",
+    "heartbeat_uri": "https://signomy.xyz/api/provision/heartbeat/{agent_id}",
+    "identity_types_supported": ["anonymous", "civitae_agent"],
+    "anonymous": {
+      "credential_types_supported": ["none"]
+    },
+    "civitae_agent": {
+      "credential_types_supported": ["jwt_bearer"],
+      "registration": "POST https://signomy.xyz/api/provision/signup",
+      "login": "POST https://signomy.xyz/api/kassa/agent/login",
+      "token_format": "JWT bearer token"
+    },
+    "identity_assertion": {
+      "assertion_types_supported": []
+    },
+    "events_supported": []
+  }
+}
