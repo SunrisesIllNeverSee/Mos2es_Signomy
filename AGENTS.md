@@ -94,3 +94,52 @@ state into stickypads:
 python3 ~/Developer/_control/stickypads/scripts/reconcile_coord.py \
     --repo-path . --dry-run
 ```
+
+
+## Filesystem MCP — REQUIRED for file operations
+
+This is a core framework/search/ello/product repository. When performing
+file operations, prefer the Filesystem MCP tools over ad-hoc shell commands:
+
+- `list_directory` / `directory_tree` — structured directory traversal
+- `search_files` — glob-pattern file search within allowed paths
+- `read_multiple_files` — batch file reads (failures do not stop the batch)
+- `edit_file` with `dryRun: true` — preview structural changes before applying
+
+Allowed paths: ~/Developer, ~/.config/devin, ~/.config/sigrank, ~/Desktop
+
+For single-file reads and edits, native tools are acceptable. For multi-file
+operations, directory exploration, and structural changes, use the Filesystem MCP.
+
+
+## Context7 MCP — SUGGESTED for library code
+
+When writing code that uses external library APIs, consider querying Context7
+to verify current patterns instead of relying on training data:
+
+1. resolve-library-id — find the library
+2. query-docs — ask the specific question
+
+Supported libraries include Cloudflare Workers, Supabase, Next.js, Hono,
+Playwright, Pydantic, Python, and more.
+
+
+## MCP Server Recommendations for This Repo
+
+Full index: `Moses_Enterprise_B2BPilot_/_workspace/MCP_INDEX.md`
+
+**Primary (use regularly):**
+- `moses-search` — AI Search for mos2es.org content (this repo bridges to it)
+- `web-scrape` — extract content from signomy.xyz and mos2es.org live pages
+- `markitdown` — convert docs to markdown for signomy content
+- `no-slop` / `ai-slop-checker` — check signomy copy for AI writing tells
+
+**Secondary (use as needed):**
+- `context7` — verify framework patterns before writing code
+- `brave-search` — research signomy/agent universe concepts
+- `playwright` / `chrome-devtools` — visual verification of live pages
+
+**Not needed here:**
+- `supabase` / `vercel` — those are for the sigrank-app repo
+- `posthog` / `ds-server` / `sigadmin` — those are for the b2bpilot repo
+- `blender` / `worldmonitor` — unrelated
