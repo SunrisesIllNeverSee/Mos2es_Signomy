@@ -94,15 +94,15 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 
 Most AI governance tools wrap governance *around* the execution path. MO§ES™ puts governance **in** the execution path. An action that fails constitutional law gets HTTP 403. It stops. It does not execute. It does not get logged as a warning.
 
-That is the structural difference between "we built governance" and "we formalized the underlying physics; and built the system required to make it hold."
+That is the structural difference between "we built governance" and "we formalized the underlying physics, and built the system required to make it hold."
 
 ### The Business Model
 
-MO§ES™ was designed from day one as a licensing architecture. The core protocol generates products; and those products generate revenue through multiple independent streams: enterprise licensing, white-label deployments, cloned governance layers that operate under the constitutional framework, seat-based access to COMMAND and DEPLOY, and marketplace economics with tiered fees across trust levels.
+MO§ES™ was designed from day one as a licensing architecture. The core protocol generates products, and those products generate revenue through multiple independent streams: enterprise licensing, white-label deployments, cloned governance layers that operate under the constitutional framework, seat-based access to COMMAND and DEPLOY, and marketplace economics with tiered fees across trust levels.
 
-The seven-ring sovereign architecture separates what's protected from what's acquirable. The outer rings; products, internal systems, clone membranes; are open to licensing, ownership arrangements, and strategic acquisition as standalone product lines. The inner rings; the conservation law, the constitutional framework, the generative core; remain with Ello Cello LLC. This is not a limitation on the business. It is the business. The architecture produces the products. Owning the architecture means owning the source of every future product, every future license, every future revenue stream that the system generates.
+The seven-ring sovereign architecture separates what's protected from what's acquirable. The outer rings (products, internal systems, clone membranes) are open to licensing, ownership arrangements, and strategic acquisition as standalone product lines. The inner rings (the conservation law, the constitutional framework, the generative core) remain with Ello Cello LLC. This is not a limitation on the business. It is the business. The architecture produces the products. Owning the architecture means owning the source of every future product, every future license, every future revenue stream that the system generates.
 
-The result is a company that doesn't sell one thing. It sells governed embodiments of a sovereign protocol; each one a licensable, deployable, revenue-generating instance that strengthens the network it belongs to.
+The result is a company that doesn't sell one thing. It sells governed embodiments of a sovereign protocol, each one a licensable, deployable, revenue-generating instance that strengthens the network it belongs to.
 
 ### See It Applied
 
