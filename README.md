@@ -4,7 +4,7 @@
 
 **MO§ES™ is an early governance framework that mathematically preserves meaning when AI compresses, delegates, or scales language.**
 
-**The first AI constitution with its own conservation law — where complexity becomes defense, not fragility.**
+**The first AI constitution with its own conservation law; where complexity becomes defense, not fragility.**
 
 **Commitment is conserved under transformation when enforcement holds. MO§ES™ is the architecture that holds it.**
 
@@ -29,9 +29,9 @@
 
 ### Where We Are & What We're Looking For
 
-The specification is complete. The architecture is live. The IP is filed. The conservation law is published. What you see in this repo and across the linked platforms is the finished foundation — not a pitch for something we plan to build, but documentation of what already exists and how it works.
+The specification is complete. The architecture is live. The IP is filed. The conservation law is published. What you see in this repo and across the linked platforms is the finished foundation; not a pitch for something we plan to build, but documentation of what already exists and how it works.
 
-We are looking for the beginning. A seed, a start, an angel, or the founding circle of MO§ES™ itself. We are open to a traditional seed round, a SAFE note, a strategic investment with licensing or white-label rights attached, a distribution partnership that brings both capital and go-to-market, or a collaborative structure we haven't considered yet. The target is **$1.5M**, but the door is open to conversations at any scale and any shape — because the right partnership matters more than the right number.
+We are looking for the beginning. A seed, a start, an angel, or the founding circle of MO§ES™ itself. We are open to a traditional seed round, a SAFE note, a strategic investment with licensing or white-label rights attached, a distribution partnership that brings both capital and go-to-market, or a collaborative structure we haven't considered yet. The target is **$1.5M**, but the door is open to conversations at any scale and any shape; because the right partnership matters more than the right number.
 
 We know what we have. We are aware of the scope. This is an invitation to be part of it early.
 
@@ -42,7 +42,7 @@ We know what we have. We are aware of the scope. This is an invitation to be par
 The MO§ES™ foundation has moved from "specification-complete" to "verification-ready" across two key vectors:
 
 1.  **Empirical Integrity (KASSA/CCH):** The full technical audit trail for the **Conservation Law of Commitment** has been restored. The `commitment-conservation` (KASSA) repository now contains the raw experimental records (EXP-001 through EXP-007), providing deterministic proof of the **0.94 stability metric**. A new **Live Latency Demo (v7)** is available, proving the $O(1)$ scaling advantage of the K-Governed substrate.
-2.  **Automated Governance Audit (`fundscore`):** We have integrated the **`fundscore`** application — a deterministic, non-LLM validator that scores AI repositories against investor-readiness and signal-integrity criteria. This tool ensures that the "Technical Moat" and "Scientific Lineage" are not just claims, but verifiable structural artifacts.
+2.  **Automated Governance Audit (`fundscore`):** We have integrated the **`fundscore`** application; a deterministic, non-LLM validator that scores AI repositories against investor-readiness and signal-integrity criteria. This tool ensures that the "Technical Moat" and "Scientific Lineage" are not just claims, but verifiable structural artifacts.
 
 These updates provide the "Proof of Machine" required for institutional-grade intelligence workflows (e.g., Grata).
 
@@ -50,11 +50,11 @@ These updates provide the "Proof of Machine" required for institutional-grade in
 
 ## Two Avenues
 
-This company has two complementary faces — different investors will respond to each.
+This company has two complementary faces; different investors will respond to each.
 
 ### Avenue 1: MO§ES™ — The Protocol (IP Play)
 
-A sovereign constitutional governance protocol for AI agents and signals. Enforces the **Conservation Law of Commitment** — a published, DOI-bearing conservation law with experimental evidence (0.94 stability with enforcement vs. 0.42 without). 4 patents filed. Trademark registered. Revenue model: licensing to enterprises, clouds, and chips.
+A sovereign constitutional governance protocol for AI agents and signals. Enforces the **Conservation Law of Commitment**; a published, DOI-bearing conservation law with experimental evidence (0.94 stability with enforcement vs. 0.42 without). 4 patents filed. Trademark registered. Revenue model: licensing to enterprises, clouds, and chips.
 
 **For investors who fund: infrastructure, IP, deep tech, protocol-layer plays.**
 
@@ -94,15 +94,15 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 
 Most AI governance tools wrap governance *around* the execution path. MO§ES™ puts governance **in** the execution path. An action that fails constitutional law gets HTTP 403. It stops. It does not execute. It does not get logged as a warning.
 
-That is the structural difference between "we built governance" and "we formalized the underlying physics — and built the system required to make it hold."
+That is the structural difference between "we built governance" and "we formalized the underlying physics; and built the system required to make it hold."
 
 ### The Business Model
 
-MO§ES™ was designed from day one as a licensing architecture. The core protocol generates products — and those products generate revenue through multiple independent streams: enterprise licensing, white-label deployments, cloned governance layers that operate under the constitutional framework, seat-based access to COMMAND and DEPLOY, and marketplace economics with tiered fees across trust levels.
+MO§ES™ was designed from day one as a licensing architecture. The core protocol generates products; and those products generate revenue through multiple independent streams: enterprise licensing, white-label deployments, cloned governance layers that operate under the constitutional framework, seat-based access to COMMAND and DEPLOY, and marketplace economics with tiered fees across trust levels.
 
-The seven-ring sovereign architecture separates what's protected from what's acquirable. The outer rings — products, internal systems, clone membranes — are open to licensing, ownership arrangements, and strategic acquisition as standalone product lines. The inner rings — the conservation law, the constitutional framework, the generative core — remain with Ello Cello LLC. This is not a limitation on the business. It is the business. The architecture produces the products. Owning the architecture means owning the source of every future product, every future license, every future revenue stream that the system generates.
+The seven-ring sovereign architecture separates what's protected from what's acquirable. The outer rings; products, internal systems, clone membranes; are open to licensing, ownership arrangements, and strategic acquisition as standalone product lines. The inner rings; the conservation law, the constitutional framework, the generative core; remain with Ello Cello LLC. This is not a limitation on the business. It is the business. The architecture produces the products. Owning the architecture means owning the source of every future product, every future license, every future revenue stream that the system generates.
 
-The result is a company that doesn't sell one thing. It sells governed embodiments of a sovereign protocol — each one a licensable, deployable, revenue-generating instance that strengthens the network it belongs to.
+The result is a company that doesn't sell one thing. It sells governed embodiments of a sovereign protocol; each one a licensable, deployable, revenue-generating instance that strengthens the network it belongs to.
 
 ### See It Applied
 
