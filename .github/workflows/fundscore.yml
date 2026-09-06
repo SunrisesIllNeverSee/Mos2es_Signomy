@@ -7,12 +7,15 @@ on:
 
 permissions:
   contents: read
-  pull-requests: write
 
 jobs:
   validate:
     name: Lint, test, and run fundscore
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      pull-requests: write
 
     defaults:
       run:
@@ -21,6 +24,7 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        persist-credentials: false
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -30,7 +34,7 @@ jobs:
           cache-dependency-path: fundscore/package-lock.json
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --ignore-scripts
 
       - name: Lint
         run: npm run lint
@@ -82,4 +86,5 @@ jobs:
         with:
           name: fundscore-report
           path: fundscore/fundscore-report.json
+          if-no-files-found: error
           retention-days: 30
